@@ -6,6 +6,10 @@
 </p>
 
 ***
-Welcome to my Cyber Security Blog! 👋 I'm ```Yusuf```, a cybersecurity enthusiast and aspiring Penetration Tester. My goal is to protect organizations, data, and networks, making the digital world a safer place. I'm passionate about finding vulnerabilities before the bad guys exploit them.
+Welcome to my Cyber Security Blog! 👋 My name is  ```Ogunbiyi Yusuf```, a cybersecurity enthusiast and aspiring Penetration Tester. My goal is to protect organizations, data, and networks, making the digital world a safer place. I'm passionate about finding vulnerabilities before the bad guys exploit them.
 
 In my blog posts, I share hacking tricks, detailed writeups, insightful articles, CTF challenges, and anything else related to the fascinating world of cybersecurity that I learn along the way. Join me on this journey as we explore the exciting realm of digital defense together!
+
+- Connect with me 🤝:
+  
+ <a href="https://twitter.com/T3chnocr4t">![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a> <a href="https://medium.com/@T3chnocr4t">![Medium(My Writing Portfolio)](https://img.shields.io/badge/Medium-008000?style=for-the-badge&logo=linktree&logoColor=white)</a>
