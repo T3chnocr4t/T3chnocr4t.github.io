@@ -1,7 +1,11 @@
 ## Whoami:~#🤔
 ***
 
-![vwGKcj](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/c654195b-0943-4117-94a5-b00a5fc07def)
+<p align="center">
+  <img src="https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/c654195b-0943-4117-94a5-b00a5fc07def" alt="hacking" />
+</p>
+
+
 
 
 Welcome to my Cyber Security Blog! 👋 I'm ```Yusuf```, a cybersecurity enthusiast and aspiring Penetration Tester. My goal is to protect organizations, data, and networks, making the digital world a safer place. I'm passionate about finding vulnerabilities before the bad guys exploit them.
