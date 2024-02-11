@@ -1,0 +1,13 @@
+theme: jekyll-theme-hacker
+title: T3chnocr4t:~#
+description: Looking For Something Hidden!.
+show_downloads: false
+show_repo: false
+
+safe: true
+
+gems:
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
