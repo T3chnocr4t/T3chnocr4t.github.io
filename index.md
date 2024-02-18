@@ -17,8 +17,8 @@ In my blog posts, I share hacking tricks, detailed writeups, insightful articles
 
 ***
 ## Scripting:~#
-- [[jan 27 2024]] [Bash Scripting](https://github.com/T3chnocr4t/T3chnocr4t.github.io/blob/main/CTF/Scripting/Basic-Bash.md) `Variables, echo`
-- [[jan 29 2024]] [Simple Nmap Script](https://github.com/T3chnocr4t/T3chnocr4t.github.io/blob/main/CTF/Scripting/Simple-nmap-script.md) `Nmap, Script`
+- [[jan 27 2024]] [Bash Scripting](https://github.com/T3chnocr4t/T3chnocr4t.github.io/blob/main/CTF/Scripting/Basic-Bash.html) `Variables, echo`
+- [[jan 29 2024]] [Simple Nmap Script](https://github.com/T3chnocr4t/T3chnocr4t.github.io/blob/main/CTF/Scripting/Simple-nmap-script.html) `Nmap, Script`
 
 ## OverTheWire:~#
 
