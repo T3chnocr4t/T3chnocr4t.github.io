@@ -1,4 +1,5 @@
-### ohSINT Tryhackme
+# OhSINT 
+***
 Hola 👋 here is my [ohSINT](https://tryhackme.com/room/ohsint) walkthrough on tryhackme which is real fun.
 
 ![oshint](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/7dbfcd89-8b93-49c4-b8c0-8c99eb54d9e9)
