@@ -21,4 +21,4 @@ In my blog posts, I share hacking tricks, detailed writeups, insightful articles
 - [[jan 29 2024]] [Simple Nmap Script](https://T3chnocr4t.github.io/CTF/Scripting/Simple-nmap-script.html) `Nmap, Script`
 
 ## OverTheWire:~#
-
+[Josh](https://T3chnocr4t.github.io/CTF/Tryhackme/ohSIN.html)
