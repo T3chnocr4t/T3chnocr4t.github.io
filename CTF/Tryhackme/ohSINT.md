@@ -1,5 +1,5 @@
 ### ohSINT Tryhackme
-Hola 👋here is my [ohSINT](https://tryhackme.com/room/ohsint) walkthrough on tryhackme which is real fun.
+Hola 👋 here is my [ohSINT](https://tryhackme.com/room/ohsint) walkthrough on tryhackme which is real fun.
 
 ![oshint](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/7dbfcd89-8b93-49c4-b8c0-8c99eb54d9e9)
 
@@ -17,7 +17,7 @@ So, lets begin. I started by downloading the given task, which was a window XP w
 ![first](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/2bb12690-ea8d-4a0f-9e06-cd725943c08d)
 
 - It did'nt give me much detailed, so i use ``Exiftool`` which is a command-line tool used for reading, writing, and editing metadata in various file types, including images, videos, audio files, and documents.
-So i obtained a lot of details about the pictures, and we can see a copyright which is ``owoodfrint``."
+So i obtained a lot of details about the pictures, and we can see a copyright which is ``owoodflint``."
 
 ![second2](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/603d072e-22d6-4565-a494-e12bb80e1fd3)
 
@@ -38,14 +38,14 @@ So i obtained a lot of details about the pictures, and we can see a copyright wh
 
 ### Q3: What is the SSID of the WAP he connected to?
 - So I looked up its Twitter account and found the BSSID.
-- Next, I used a website called `WiGLE`, which collects information about different wireless hotspots around the world.
+- Next, I used a website tool called `WiGLE`, which collects information about different wireless hotspots around the world.
 - Then I used it to get the SSID name when I knew the BSSID. by zooming in alot 😟
 
 ![locat](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/20ecc84a-ec72-42d6-a3c7-715d8943d021)
 Answer: UnileverWiFi
 
 ### Q4: What is his personal email address?
-- Take a look at the Github account anfd found the email. 🕺
+- Take a look at the Github account and found the email. 🕺
 
 ![owood github mail](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/6b581c29-0ba4-4b2f-8400-03379a86711f)
 
@@ -53,7 +53,7 @@ Answer: UnileverWiFi
 Answer: Github
 
 ### Q6: Where has he gone on holiday?
-- yes 😆 "So I found its website on GitHub and took a look at it. Then I saw.. He went to new york to enjoy 😂
+- yeah 😆, "So I found its website on GitHub and took a look at it. Then I saw.. He went to new york to enjoy 😂
 
 ![owood web](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/fadd8f6a-cc1f-4517-ae63-a8551cf5aaf9)
 Answer: New york
@@ -62,6 +62,7 @@ Answer: New york
 
 - So I carefully viewed the page source of the website and found the victim's password.
 ![page syy](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/c37e9c7b-be7d-49b7-9685-74cf39e08e81)
+Answer: pennYDr0pper.!
 
 Yeah, that's it. Thanks for reading! If you have any feedback, please feel free to message me on Twitter [T3chnocr4t](https://twitter.com/T3chnocr4t).
 
