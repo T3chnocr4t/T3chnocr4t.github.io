@@ -53,9 +53,13 @@ Answer: UnileverWiFi
 Answer: Github
 
 ### Q6: Where has he gone on holiday?
-yes 😆 "So I found its website on GitHub and took a look at it. Then I saw.. He went to new york to enjoy 😂
+- yes 😆 "So I found its website on GitHub and took a look at it. Then I saw.. He went to new york to enjoy 😂
 
 ![owood web](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/fadd8f6a-cc1f-4517-ae63-a8551cf5aaf9)
 Answer: New york
 
 ### Q7: What is the person's password?
+
+- So I carefully viewed the page source of the website and found the victim's password.
+![page syy](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/c37e9c7b-be7d-49b7-9685-74cf39e08e81)
+
