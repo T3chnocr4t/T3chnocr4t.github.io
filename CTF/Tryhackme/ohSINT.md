@@ -16,12 +16,12 @@ So, lets begin. I started by downloading the given task, which was a window XP w
 
 ![first](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/2bb12690-ea8d-4a0f-9e06-cd725943c08d)
 
-- It did'nt give me much detailed, so i use ``Exiftool`` which is acommand-line tool used for reading, writing, and editing metadata in various file types, including images, videos, audio files, and documents.
+- It did'nt give me much detailed, so i use ``Exiftool`` which is a command-line tool used for reading, writing, and editing metadata in various file types, including images, videos, audio files, and documents.
 So i obtained a lot of details about the pictures, and we can see a copyright which is ``owoodfrint``."
 
 ![second2](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/603d072e-22d6-4565-a494-e12bb80e1fd3)
 
-- "So I searched(recon) the name on Google, and I found their GitHub account and Twitter account..
+- "So I searched(recon) the name on Google, and I found a GitHub account and Twitter account..
 
 ![owood](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/ea741b68-59e9-43d2-beea-150da8f1a853)
 
@@ -53,11 +53,9 @@ Answer: UnileverWiFi
 Answer: Github
 
 ### Q6: Where has he gone on holiday?
-yes 😆 "So I found its website on GitHub and took a look at it. Then I saw.. He went to new york to enjoy :
+yes 😆 "So I found its website on GitHub and took a look at it. Then I saw.. He went to new york to enjoy 😂
 
 ![owood web](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/fadd8f6a-cc1f-4517-ae63-a8551cf5aaf9)
 Answer: New york
 
 ### Q7: What is the person's password?
-
-
