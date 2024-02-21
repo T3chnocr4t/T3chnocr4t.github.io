@@ -17,7 +17,7 @@ In my blog posts, I share hacking tricks, detailed writeups, insightful articles
 
 ***
 ## Tryhackmr:~#
-- [[feb 21 2024]] [[ohSINT](https://T3chnocr4t.github.io/CTF/Tryhackme/ohSINT.html) `OSINT, Recon`
+- [[feb 21 2024]] [ohSINT](https://T3chnocr4t.github.io/CTF/Tryhackme/ohSINT.html) `OSINT, Recon`
 
 ## Scripting:~#
 - [[jan 27 2024]] [Bash Scripting](https://T3chnocr4t.github.io/CTF/Scripting/Basic-Bash.html) `Variables, echo`
