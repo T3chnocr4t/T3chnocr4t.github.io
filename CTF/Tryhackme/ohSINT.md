@@ -63,3 +63,6 @@ Answer: New york
 - So I carefully viewed the page source of the website and found the victim's password.
 ![page syy](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/c37e9c7b-be7d-49b7-9685-74cf39e08e81)
 
+Yeah, that's it. Thanks for reading! If you have any feedback, please feel free to message me on ![Twitter](https://twitter.com/T3chnocr4t).
+
+![Go back home](https://T3chnocr4t.github.io)
