@@ -27,7 +27,7 @@ Writeup | Date | Description
 Writeup | Date | Description
 --------|------|------------
 [Bash Scripting](https://T3chnocr4t.github.io/CTF/Scripting/Basic-Bash.html) | jan 27 2024 | `Variables, echo`
-[Simple Nmap Script](https://T3chnocr4t.github.io/CTF/Scripting/Simple-nmap-script.html) | jan 29 2024 | `Nmap, Script`
+[Nmap Script](https://T3chnocr4t.github.io/CTF/Scripting/Simple-nmap-script.html) | jan 29 2024 | `Nmap, Script`
 
 ## OverTheWire:~#
 
