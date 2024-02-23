@@ -17,11 +17,13 @@ In my blog posts, I share hacking tricks, detailed writeups, insightful articles
 
 ***
 ## Tryhackme:~#
+
 Writeup | Date | Description
 --------|------|------------
 [ohSINT](https://T3chnocr4t.github.io/CTF/Tryhackme/ohSINT.html) | feb 21 2024  | `OSINT, Recon`
 
 ## Scripting:~#
+
 Writeup | Date | Description
 --------|------|------------
 [Bash Scripting](https://T3chnocr4t.github.io/CTF/Scripting/Basic-Bash.html) | jan 27 2024 | `Variables, echo`
