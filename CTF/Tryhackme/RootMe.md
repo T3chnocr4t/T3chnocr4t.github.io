@@ -1,4 +1,5 @@
 # RootMe
+# Difficulty = Easy
 ***
 Hola 👋, Here is my write-up on [RootMe](https://tryhackme.com/room/rrootme) , based on the TryHackMe CTF. It covers learning reconnaissance, privilege escalation, and reverse shell techniques.
 
