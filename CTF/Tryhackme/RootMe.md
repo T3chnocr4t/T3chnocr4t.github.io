@@ -10,6 +10,7 @@ Hola 👋, Here is my write-up on [RootMe](https://tryhackme.com/room/rrootme) ,
 ## Task 2: Reconnaissance
 ### Q1: how many ports are open?
 - So, I began by utilizing one of the best enumeration and scanning tools, which is `Nmap`. Nmap is a powerful network scanning tool used to discover hosts and services on a computer network.
+
 - Running our nmap scan, give us this:
 
 ```powershell
@@ -35,6 +36,9 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 # Nmap done at Sat Mar  2 16:09:42 2024 -- 1 IP address (1 host up) scanned in 37.96 seconds
 ```
+
+
+
 
 And we can see that we have 2 ports open from our Nmap scan.
 - Answer: 2
