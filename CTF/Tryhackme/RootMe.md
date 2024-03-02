@@ -39,4 +39,20 @@ And we can see that we have 2 ports open from our Nmap scan.
 
 ### Q2: What version of Apache is running?
 - From our `nmap` scan port 80 https is running of Apache httpd 2.4.29 ((Ubuntu))
+
+![rootme1](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/9a67c10c-87ea-4108-a45e-58395b94693f)
+
 - Answer: 2.4.29
+
+### Q3: What service is running on port 22?
+- Answer: SSH
+
+### Q4: Find directories on the web server using the GoBuster tool.
+- Answer: No Answer Needed
+
+### Q5: What is the hidden directory?
+- Using Gobuster, a command-line tool utilized for directory and file brute-forcing on web servers, we were able to uncover the hidden directory.
+![rootme2](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/d0fb1a8e-c2be-43fc-a790-12d22ab03d1e)
+
+- Answer: /Panel/
+
