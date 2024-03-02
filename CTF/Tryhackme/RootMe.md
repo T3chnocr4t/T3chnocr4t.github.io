@@ -12,7 +12,7 @@ Hola 👋, Here is my write-up on [RootMe](https://tryhackme.com/room/rrootme) ,
 - So, I began by utilizing one of the best enumeration and scanning tools, which is `Nmap`. Nmap is a powerful network scanning tool used to discover hosts and services on a computer network.
 - Running our nmap scan, give us this:
 
-```
+```powershell
 # Nmap 7.94SVN scan initiated Sat Mar  2 16:09:04 2024 as: nmap -sC -sV -oN ./myfile.txt 10.10.88.68
 Nmap scan report for 10.10.88.68
 Host is up (0.20s latency).
