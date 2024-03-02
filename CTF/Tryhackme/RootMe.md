@@ -11,6 +11,7 @@ Hola 👋, Here is my write-up on [RootMe](https://tryhackme.com/room/rrootme) ,
 ### Q1: how many ports are open?
 - So, I began by utilizing one of the best enumeration and scanning tools, which is `Nmap`. Nmap is a powerful network scanning tool used to discover hosts and services on a computer network.
 - Running our nmap scan, give us this:
+
 ```
 # Nmap 7.94SVN scan initiated Sat Mar  2 16:09:04 2024 as: nmap -sC -sV -oN ./myfile.txt 10.10.88.68
 Nmap scan report for 10.10.88.68
@@ -34,6 +35,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 # Nmap done at Sat Mar  2 16:09:42 2024 -- 1 IP address (1 host up) scanned in 37.96 seconds
 ```
+
 And we can see that we have 2 ports open from our Nmap scan.
 - Answer: 2
 
@@ -52,6 +54,7 @@ And we can see that we have 2 ports open from our Nmap scan.
 
 ### Q5: What is the hidden directory?
 - Using Gobuster, a command-line tool utilized for directory and file brute-forcing on web servers, we were able to uncover the hidden directory.
+
 ![rootme2](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/d0fb1a8e-c2be-43fc-a790-12d22ab03d1e)
 
 - Answer: /Panel/
