@@ -117,6 +117,7 @@ scroll down you will see something similar.
 
 - Answer: THM{y0u_g0t_a_sh3ll}
 
+***
 ## Task 4: Privilege escalation
 ### Now that we have a shell, let's escalate our privileges to root
 
