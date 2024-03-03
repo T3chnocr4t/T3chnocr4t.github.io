@@ -127,9 +127,29 @@ scroll down you will see something similar.
 
 - Answer: /usr/bin/python
 
+### Q2: Find a form to escalate your privileges.
+-Answer: No Answer Needed
+
+### Q3: root.txt
+- How to exploit it? Utilize [GTFOBins](https://gtfobins.github.io/gtfobins/python/#suid) and loook for Python GTFO.
+ 
+![suid](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/3832864a-f121-47d8-ae65-15a718068e39)
+
+- We need to run this `python -c 'import os; os.execl("/bin/sh", "sh", "-p")'`, copy it, and paste it into your terminal to see where we end up.
+Then, type the command `whoami`.we are in 😂!
+- To find the root.txt run this command in the terminal `find / -type f -name root.txt`
+
+![new6](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/830787c5-ece2-4738-bc76-0d7692034364)
+
+We got the flags.
+- Answer: THM{pr1v1l3g3_3sc4l4t10n}
+
+And we are done 👋! That's all, friends. Thank you for reading up to this point. I would like to hear your feedback on anything not clear here. Here is my Twitter account @[T3chnocr4t](https://twitter.com/T3chnocr4t). Feel free to DM me if you have any issues with my write-up. Thanks!
 
 
+[Go Back Home](https://t3chnocr4t.github.io/)
 
+![tenor](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/f8407250-3751-4845-afc9-b10aefdfa35e)
 
 
 
