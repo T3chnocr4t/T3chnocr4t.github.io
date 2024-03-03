@@ -122,7 +122,7 @@ scroll down you will see something similar.
 ### Now that we have a shell, let's escalate our privileges to root
 
 ### Q1: Search for files with SUID permission, which file is weird?
-- We need to use the command "find / -user root -perm /4000". What does it mean? It's searching for a special kind of file that has a permission setting allowing it to be run as the root user. We have to carefully check the list of files it finds to see if any of them can be used to gain full control over the system as the root user.
+- We need to use the command `find / -user root -perm /4000`. What does it mean? It's searching for a special kind of file that has a permission setting allowing it to be run as the root user. We have to carefully check the list of files it finds to see if any of them can be used to gain full control over the system as the root user.
 
 ![new5](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/15d307c1-2408-4166-9836-3a293cdd5c86)
 
