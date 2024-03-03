@@ -64,3 +64,11 @@ And we can see that we have 2 ports open from our Nmap scan.
 
 - Answer: /Panel/
 
+## Task 3: Getting a shell
+### Q1: Find a form to upload and get a reverse shell, and find the flag.
+- We have to Find a form for uploading files to obtain a reverse shell, and then locate the flag. In this scenario, access the IP address via a web browser. The hidden directory named "panel" will lead you to the upload form.
+
+![rootme4](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/d6ed82a8-bbe4-4b18-adb0-f6baabbcceef)
+
+-
+
