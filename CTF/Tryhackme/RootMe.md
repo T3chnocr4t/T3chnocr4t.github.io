@@ -70,5 +70,16 @@ And we can see that we have 2 ports open from our Nmap scan.
 
 ![rootme4](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/d6ed82a8-bbe4-4b18-adb0-f6baabbcceef)
 
--
+- We can go here to find [PHP reverse shell scripts](https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php). What we need to do is create a "shell.php" file that we can upload onto the vulnerable server used to establish a backdoor connection to a compromised server.
+- So, we can create a file with nano, for example, "example.php". This will open the nano editor where you can copy-paste the payload from the Git repository. Afterwards, we need to change the "ip_addr" and port to the desired values for our communication. In this case, I use port 4444, but you can use any port convenient for you. Then, use the IP address of your TryHackMe (THM) VPN if you are connected using the VPN. Or using the attackbox.
+scroll down you will see something similar.
+
+![tes2](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/11d8258a-d40b-4136-84b8-600e31e4515e)
+
+- After completing the process, it's time to upload it to the /panel/ directory that we discovered earlier. However, what's this? It appears the server isn't accepting .php files. What should we do in this situation? We're aware that we have a .php file, and PHP files can be disguised with various extensions. A brief search on Google reveals alternative extensions such as: .php3, .php4, .php5, .php7, .phtml, .pht. Then, the .php5 extension finally works! Bingo! 😂
+
+![rootme5](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/a5e4cf14-8d94-4c1d-ac14-d47d32c379e2)
+
+
+
 
