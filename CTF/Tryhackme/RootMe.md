@@ -90,7 +90,7 @@ scroll down you will see something similar.
 
 ![new1](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/6a12837a-b81d-4654-94f5-fc53581a6c80)
 
-- To start our Netcat, we have to open our terminal and enter the command: `nc -lvnp 4444` (replace "4444" with the port number specified in your PHP reverse shell file). In my case, I use port 4443.
+- To start our Netcat, we have to open our terminal and enter the command: `nc -lvnp 4444` (replace "4444" with the port number specified in your PHP reverse shell file). In my case, I use port 4444.
 
 ![1](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/896acc83-8f9d-4706-8e6b-600776173c1b)
 
