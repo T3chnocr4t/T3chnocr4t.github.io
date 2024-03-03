@@ -88,7 +88,7 @@ scroll down you will see something similar.
 
 - Now, we need to navigate to the uploads page at `ip_addr/uploads`, which was found earlier using Gobuster, to access hidden pages. It will look something like this. Then, we start our netcat listener in the terminal.
 
-![new1](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/6a12837a-b81d-4654-94f5-fc53581a6c80
+![new1](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/6a12837a-b81d-4654-94f5-fc53581a6c80)
 
 - To start our Netcat, we have to open our terminal and enter the command: `nc -lvnp 4444` (replace "4444" with the port number specified in your PHP reverse shell file). In my case, I use port 4443.
 
