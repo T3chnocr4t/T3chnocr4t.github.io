@@ -80,7 +80,7 @@ And we can see that we have 2 ports open from our Nmap scan.
 - So, we can create a file with nano, for example, "example.php". This will open the nano editor where you can copy-paste the payload from the Git repository. Afterwards, we need to change the "ip_addr" and port to the desired values for our communication. In this case, I use port 4444, but you can use any port convenient for you. Then, use the IP address of your TryHackMe (THM) VPN if you are connected using the VPN. Or using the attackbox.
 scroll down you will see something similar.
 
-![tes2](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/11d8258a-d40b-4136-84b8-600e31e4515e)
+![tes2](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/14c23347-747a-48c3-ab53-7fabf7b8c1d8)
 
 - After completing the process, it's time to upload it to the /panel/ directory that we discovered earlier. However, what's this? It appears the server isn't accepting .php files. What should we do in this situation? We're aware that we have a .php file, and PHP files can be disguised with various extensions. A brief search on Google reveals alternative extensions such as: .php3, .php4, .php5, .php7, .phtml, .pht. Then, the .php5 extension finally works! Bingo! 😂
 
