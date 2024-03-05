@@ -123,6 +123,39 @@ Let's start by downloading the given Task.
 - Looking at the Wikipedia page.
 - Answer: sl{richmond}
 
+## Task 5: Coffee and a light lunch
+- Download the given task
+
+![task5](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/a39934a2-859c-4da1-a4a1-012b9c5cd276)
+
+### Q1: Which city is this coffee shop located in?
+- We are given a hint: Scotland
+- By carefully looking at the image, we found "Edinburgh Woollen Mill." Let's also look it up on Google and found...
+
+![14](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/bfaf51ba-4803-4703-84be-8e0cdcea9f19)
+
+- looking it on google maps
+
+![13](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/cb0ee937-484c-42f4-a25c-d3aeda524a58)
+
+![123](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/e3e5d658-a5e8-4e5e-bb5a-621e6b2046de)
+
+- Bingo 😂 we found the coffee shop
+
+![142](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/5d4e3cdd-960c-4cd4-b98d-f4c7269d80b5)
+
+- Answer: sl{blairgowrie}
+
+### Q2: Which street is this coffee shop located in?
+- So after I found the name of the coffee shop, I conducted research on it and was able to obtain the address and street.
+
+![food 1](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/e7c2e6ac-ce8d-40bd-a1b8-c3f6b793783a)
+
+- Answer: sl{allan street}
+
+### Q3: What is their phone number?
+
+
 
 
 
