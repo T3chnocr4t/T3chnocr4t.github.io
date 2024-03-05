@@ -12,7 +12,18 @@ Hola👋 Welcome back. Here is a walkthrough on Searchlight IMINT based on TryHa
 
 - Geospatial Intelligence (GEOINT): Involves leveraging publicly available geospatial data, maps, satellite imagery, and other spatial information from open sources to gather intelligence.
 
-Let get started
+Let get started 😆
+
+***
+## Task 1: Welcome to the Searchlight IMINT room! 
+###This room introduce us to several topics within IMINT, among them: 
+- Getting into the right mindset and how to be analytical 
+- Visually extracting key data points from an image or video
+- Applying different tools to assist you in geolocation and answering context questions
+
+- The flag format is: sl{flag} - this means that every answer needs to be submitted within the brackets, sl{your answer}. No capitalization is needed.
+### Q1: Did you understand the flag format?
+-Answer: sl{ready}
 
 ***
 ## Task 2: Your first challenge
@@ -56,7 +67,7 @@ Download the attached image and let begin
 
 We are introduced to our first tool, Google! If you see anything in the image that can be extracted into a keyword, phrase, a company name, telephone number, or any other question you may have as a result of scanning the image up and down: GOOGLE IT!
 
-Let's start by downloading the given image.
+Let's start by downloading the given Task.
 
 ![task3](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/71e4bda2-868a-4c6a-a0b0-b58a3a95d9ec)
 
@@ -73,7 +84,7 @@ Let's start by downloading the given image.
  
 ![1111111111111111111](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/dbf001b4-0422-46e3-9cfd-28d95e655709)
 
-- Answer: London
+- Answer: sl{London}
 
 ### Q2: Which tube station do these stairs lead to?
 - Taking a look at the Wikipedia page, we found our answer, which is `Piccadilly Circus`.
@@ -89,7 +100,7 @@ Let's start by downloading the given image.
 - Answer: sl{1906}
 
 ### Q4: How many platforms are there in this station?
-- Answer: 4
+- Answer: sl{4}
 
 ***
 ## Task 4: Keep At It!
@@ -105,7 +116,11 @@ Let's start by downloading the given image.
 - Answer: sl{vancouver international airport}
 
 ### Q2: Which country is this building located in?
+- Answer: sl{canada}
 
+### Q3: Which city is this building located in?
+- Looking at the Wikipedia page.
+- Answer: sl{richmond}
 
 
 
