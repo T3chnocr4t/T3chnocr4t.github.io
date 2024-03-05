@@ -26,10 +26,10 @@ In my blog posts, I share hacking tricks, detailed writeups, insightful articles
 
 ## Scripting:~#
 
-Writeup | Date | Description
---------|------|------------
-[Bash Scripting](https://T3chnocr4t.github.io/CTF/Scripting/Basic-Bash.html) | jan 27 2024 | `Variables, echo`
-[Nmap Script](https://T3chnocr4t.github.io/CTF/Scripting/Simple-nmap-script.html) | jan 29 2024 | `Nmap, Script`
+| Writeup | Description | Date |
+| --------|------------ | ---- |
+[Bash Scripting](https://T3chnocr4t.github.io/CTF/Scripting/Basic-Bash.html) | `Variables, echo` | jan 27 2024 |
+[Nmap Script](https://T3chnocr4t.github.io/CTF/Scripting/Simple-nmap-script.html) | `Nmap, Script` | jan 29 2024 |
 
 ## OverTheWire:~#
 
