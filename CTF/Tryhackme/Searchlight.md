@@ -1,6 +1,7 @@
 ***
 # Searchlight IMINT
 Difficulty = Easy
+
 ***
 Hola👋 Welcome back. Here is a walkthrough on Searchlight IMINT based on TryHackMe. It covers learning the discipline of IMINT/GEOINT, which stands for Image Intelligence and Geospatial Intelligence.
 
