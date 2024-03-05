@@ -22,7 +22,7 @@ Writeup | Date | Description
 --------|------|------------
 [ohSINT](https://T3chnocr4t.github.io/CTF/Tryhackme/ohSINT.html) | feb 21 2024  | `Are you able to use open source intelligence to solve this challenge`
 [RootMe](https://T3chnocr4t.github.io/CTF/Tryhackme/RootMe.html) | mar 3 2024 | `A CTF for beginners, can you rootme?`
-
+[Searchlight IMINT](https://T3chnocr4t.github.io/CTF/Tryhackme/Searchlight.html) | mar 5 2024 | OSINT challenges in the imagery intelligence category
 ## Scripting:~#
 
 Writeup | Date | Description
