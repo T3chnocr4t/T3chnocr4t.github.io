@@ -284,6 +284,18 @@ Now that we have hand on practice of different tool and techniques , let use tha
 - Geolocating videos aren't much different from geolocating images. A video is just a string of images, usually played at 24 frames(or images) per second. In other words, a video will hold a whole lot more images that can be analyzed, reversed and scrutinized by you.
 
 
+- complete it soon
+
+
+
+- And we are done 👋! That's all, friends. Thank you for reading up to this point. I would like to hear your feedback on anything not clear here. Here is my Twitter account @[T3chnocr4t](https://twitter.com/T3chnocr4t). Feel free to DM me if you have any issues with my write-up. Thanks!
+
+
+[Go Back Home](https://t3chnocr4t.github.io/)
+
+![tenor](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/f8407250-3751-4845-afc9-b10aefdfa35e)
+
+
 
 
 
