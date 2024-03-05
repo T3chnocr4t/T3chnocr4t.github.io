@@ -44,7 +44,27 @@ Download the attached image and let begin
 ![task2](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/af6530e2-5b87-431c-a619-4186037c5828)
 
 ## Q1: What is the name of the street where this image was taken?
-- 
+- Using our first tool, which is our eyes, we can see a welcome message on a billboard in the city: `Welcome to Carnaby Street.`
+- Answer: sl{Carnaby Street}
+
+## Task 3: Just Google it!
+
+![2](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/8a3ede22-7c83-4bc4-8baa-b7487b3ee524)
+
+We are introduced to our first tool, Google! If you see anything in the image that can be extracted into a keyword, phrase, a company name, telephone number, or any other question you may have as a result of scanning the image up and down: GOOGLE IT!
+
+Let's start by downloading the given image.
+
+![task3](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/71e4bda2-868a-4c6a-a0b0-b58a3a95d9ec)
+
+Q1: Which city is the tube station located in?
+- By looking at the image carefully, we can identify the building; most of us know this is London 😂.
+
+
+
+
+
+
 
 
 
