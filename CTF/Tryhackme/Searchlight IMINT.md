@@ -1,2 +1,55 @@
-# Searchlight IMINT
 ***
+# Searchlight IMINT
+Difficulty = Easy
+***
+Hola👋 Welcome back. Here is a walkthrough on Searchlight IMINT based on TryHackMe. It covers learning the discipline of IMINT/GEOINT, which stands for Image Intelligence and Geospatial Intelligence.
+
+![1](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/08f2137b-2295-4439-82b2-8efd00166638)
+
+## What is IMINT and GEOINT 🤔 ?
+- Image Intelligence (IMINT): Involves utilizing publicly available images, photographs, and visual media from open sources to gather intelligence.
+
+- Geospatial Intelligence (GEOINT): Involves leveraging publicly available geospatial data, maps, satellite imagery, and other spatial information from open sources to gather intelligence.
+
+Let get started
+
+## Task 2: Your first challenge
+
+![3](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/e1e15bcf-87ec-46e5-b425-bfc3789ad031)
+
+Before we begin answering questions, I would like to bring up some important words mentioned in the room so we can have a better understanding of what we are doing.
+
+### Let's introduce you to your first tool - your eyes! 
+Before we can apply a tool or a methodology for finding the location of an image, we should use our eyes to scan the image for important information. Extracting key data points from the image will allow you to apply the right tool, craft a good Google search or identify which part of the world the image might have been taken in. 
+### There are 5 elements of IMINT that you should consider when looking at an image, according to Geoint expert Benjamin Strick:
+- Context
+- Foreground
+- Background
+- Map markings
+- Trial and error
+
+A geolocation challenge like this lacks one important factor, which is the context or the source of the image. In real-world cases, you usually have a context in which the image was produced or shared, usually called context clues. Most of these challenges will not have context clues but you may find clues in the titles and descriptions, or if you're stuck you can use the hint function. 
+
+
+### Here are some questions you should ask yourself while looking at the upcoming challenges:
+- Are there any obvious data in the image that reveals the location, like a street name or storefront signs?
+- Can you determine the country or region of the image by, for instance, which side of the road they drive on, language or architectural characteristics that may reveal a country or continent/region?  
+- Do you recognize road sign styles, nature and environmental characteristics, or popular motor vehicle brands or vehicle types? 
+- What is the quality of any visible infrastructure like? Is the road paved or do you see gravel roads? 
+- Do you see any unique landmarks, buildings, bridges, statues or mountains that can help you geolocate the image?
+
+
+Download the attached image and let begin
+
+![task2](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/af6530e2-5b87-431c-a619-4186037c5828)
+
+## Q1: What is the name of the street where this image was taken?
+- 
+
+
+
+
+
+
+
+
