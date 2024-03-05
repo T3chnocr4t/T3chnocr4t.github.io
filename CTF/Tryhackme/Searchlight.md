@@ -177,7 +177,45 @@ Let's start by downloading the given Task.
 - Answer: sl{cochrane}
 
 ***
-## Tsk 6:  Reverse your thinking
+## Task 6:  Reverse your thinking
+
+![0gFwCSO](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/69be921b-e074-4e92-b2d6-fe840c665a12)
+
+- Reserve Thinking: This means that we are searching for the image itself online, and if the image has been indexed by search engines we may find the exact image or we can do a visual search or crop search to help us find similar images.
+- "You can Perform a search by image. Choose between the image search engines Google, Bing, Yandex, TinEye and Baidu."
+- Download the given task we have:
+
+![task6](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/9ce38726-e706-4e91-90a8-cfdce714e5bc)
+
+### Q1: Which restaurant was this picture taken at?
+- By using Google Image Search, we found many items, and we also discovered the logo of the restaurant.
+
+![tes](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/907678f9-6095-488c-95e8-c4d4cd07f711)
+
+- I made a research on the name and was able to find many things, and I also took a look at the Wikipedia page. And i found the all about the company
+
+![tes 3](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/61e79c6e-67dd-46d8-b0fa-80a295f6bcaa)
+
+- Answer: sl{katz's deli}
+
+### Q2: What is the name of the Bon Appétit editor that worked 24 hours at this restaurant?
+- Researching, I found the answer.
+
+![tes 4](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/0d37cc1c-343a-43af-a1fb-6abc5042e637)
+
+- Answer: sl{andrew knowlton}
+
+
+
+![task7](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/f2f72b49-3adc-4120-a31f-b03315ecde25)
+
+### Q1: 
+
+
+
+
+
+
 
 
 
