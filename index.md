@@ -18,7 +18,7 @@ In my blog posts, I share hacking tricks, detailed writeups, insightful articles
 ***
 ## Tryhackme:~#
 
-| Feature              | Description                                                                      | Date
+| Feature              | Description                                                                      | Date       |
 |----------------------|----------------------------------------------------------------------------------|------------|
 | [ohSINT](https://T3chnocr4t.github.io/CTF/Tryhackme/ohSINT.html) | `Are you able to use open source intelligence to solve this challenge` |  feb 21 2024 |
 | [RootMe](https://T3chnocr4t.github.io/CTF/Tryhackme/RootMe.html) | `A CTF for beginners, can you rootme?` | mar 3 2024  |
