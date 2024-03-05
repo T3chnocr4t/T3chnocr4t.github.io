@@ -16,7 +16,7 @@ Let get started 😆
 
 ***
 ## Task 1: Welcome to the Searchlight IMINT room! 
-###This room introduce us to several topics within IMINT, among them: 
+### This room introduce us to several topics within IMINT, among them: 
 - Getting into the right mindset and how to be analytical 
 - Visually extracting key data points from an image or video
 - Applying different tools to assist you in geolocation and answering context questions
