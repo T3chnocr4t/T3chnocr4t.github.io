@@ -13,6 +13,7 @@ Hola👋 Welcome back. Here is a walkthrough on Searchlight IMINT based on TryHa
 
 Let get started
 
+***
 ## Task 2: Your first challenge
 
 ![3](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/e1e15bcf-87ec-46e5-b425-bfc3789ad031)
@@ -43,10 +44,11 @@ Download the attached image and let begin
 
 ![task2](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/af6530e2-5b87-431c-a619-4186037c5828)
 
-## Q1: What is the name of the street where this image was taken?
+### Q1: What is the name of the street where this image was taken?
 - Using our first tool, which is our eyes, we can see a welcome message on a billboard in the city: `Welcome to Carnaby Street.`
 - Answer: sl{Carnaby Street}
 
+***
 ## Task 3: Just Google it!
 
 ![2](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/8a3ede22-7c83-4bc4-8baa-b7487b3ee524)
@@ -57,8 +59,61 @@ Let's start by downloading the given image.
 
 ![task3](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/71e4bda2-868a-4c6a-a0b0-b58a3a95d9ec)
 
-Q1: Which city is the tube station located in?
+### Q1: Which city is the tube station located in?
 - By looking at the image carefully, we can identify the building; most of us know this is London 😂.
+- But let's research the image to confirm if we are correct. By carefully looking at the image, we can see three words: `public subway, circus, and "underground.` Let's research it on Google.
+- I then used Google maps at street level to make sure I had the exact same one:
+
+![map](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/a3677233-8547-4c58-a962-2205a85e4757)
+
+![map 2](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/36fd3096-8f05-4430-8606-67579b0c6ef4)
+
+- I take a lok back in our search result then we can see many results about London
+ 
+![1111111111111111111](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/dbf001b4-0422-46e3-9cfd-28d95e655709)
+
+- Answer: London
+
+### Q2: Which tube station do these stairs lead to?
+- Taking a look at the Wikipedia page, we found our answer, which is `Piccadilly Circus`.
+
+![55](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/543ff34e-dfbf-4708-b722-b888945ebd82)
+
+- Answer: sl{Piccadilly Circus}
+
+### Q3: Which year did this station open?
+
+![55s](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/101930e0-e4bd-4d21-85d2-44e655f3b811)
+
+- Answer: sl{1906}
+
+### Q4: How many platforms are there in this station?
+- Answer: 4
+
+***
+## Task 4: Keep At It!
+- Downloads the given tasks
+  
+![task4](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/f603f7cc-e1e4-4122-91da-eb2121626d85)
+
+### Q1: Which building is this photo taken in?
+- By carefully looking at the image, we found `YVR Connect.` Let's make research about it and then we found...
+
+![99](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/ac3d29ac-18a0-4288-85b5-0d2b7742db90)
+
+- Answer: sl{vancouver international airport}
+
+### Q2: Which country is this building located in?
+
+
+
+
+
+
+
+
+
+
 
 
 
