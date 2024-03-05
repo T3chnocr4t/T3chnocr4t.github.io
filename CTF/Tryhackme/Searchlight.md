@@ -244,8 +244,23 @@ Now that we have hand on practice of different tool and techniques , let use tha
   
 ![task8](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/3f835ed2-9f1e-4e07-88c5-cb9264309115)
 
-## Q1: What is the name of the character that the statue depicts?
+### Q1: What is the name of the character that the statue depicts?
+- By using Bing image search, I quickly obtained the name of the statue.
 
+![Inked111_LI](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/d7c058ec-25d6-4f14-a3da-865563aaad39)
+
+- Answer: sl{lady justice}
+
+### Q2: where is this statue located?
+- Using Bing image search, I needed to identify the name of the building. I continued cropping the image until I found the full name.
+
+![222](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/a1d031ca-ae19-410b-b1d0-83aa9d5e6d30)
+
+![333](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/4d06e09c-2d64-441d-8492-c1ceffc7144f)
+
+- Then BINGO 😂 i found it
+
+![4444](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/0b259daf-67c2-4b12-b1df-21ce04ee5c5b)
 
 
 
