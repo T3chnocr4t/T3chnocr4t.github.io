@@ -24,7 +24,7 @@ In my blog posts, I share hacking tricks, detailed writeups, insightful articles
 | [RootMe](https://T3chnocr4t.github.io/CTF/Tryhackme/RootMe.html) | `A CTF for beginners, can you rootme?` |
 
 | Writeup | Description |
-|---------|------------ |
+|----------------|------------ |
 | [Searchlight](https://T3chnocr4t.github.io/CTF/Tryhackme/Searchlight.html) | `OSINT challenges in the imagery intelligence category` |
 ## Scripting:~#
 
