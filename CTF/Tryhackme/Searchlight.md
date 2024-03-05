@@ -204,7 +204,8 @@ Let's start by downloading the given Task.
 ![tes 4](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/0d37cc1c-343a-43af-a1fb-6abc5042e637)
 
 - Answer: sl{andrew knowlton}
-  
+
+***
 ## Task 7: Locate this sculpture
 ![vDAqWCZ](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/b8b9b3ca-074d-457a-9c0b-0347dc674569)
 
@@ -262,9 +263,25 @@ Now that we have hand on practice of different tool and techniques , let use tha
 
 ![4444](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/0b259daf-67c2-4b12-b1df-21ce04ee5c5b)
 
+- Making a research on the name to locate it on Google Maps, then I found it location
 
+![ttttt](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/c79eff04-21a1-41dd-ab69-619fe6e029f7)
 
+- Answer: sl{alexandria, virginia}
 
+### Q3: What is the name of the building opposite from this statue?
+- Viewing around i found the opposite building 😆
+
+![777](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/8b9a7ca6-d50d-4ea1-af3a-0f66a85f775c)
+
+- Answer: sl{the westin alexandria old town}
+
+***
+## Task 9: The view from my hotel room
+
+![vQJdwUh (1)](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/5ab64e16-f311-4387-ac9e-a19a1d19741f)
+
+- Geolocating videos aren't much different from geolocating images. A video is just a string of images, usually played at 24 frames(or images) per second. In other words, a video will hold a whole lot more images that can be analyzed, reversed and scrutinized by you.
 
 
 
