@@ -21,7 +21,8 @@ Let get started 😆
 - Visually extracting key data points from an image or video
 - Applying different tools to assist you in geolocation and answering context questions
 
-- The flag format is: sl{flag} - this means that every answer needs to be submitted within the brackets, sl{your answer}. No capitalization is needed.
+The flag format is: sl{flag} - this means that every answer needs to be submitted within the brackets, sl{your answer}. No capitalization is needed.
+
 ### Q1: Did you understand the flag format?
 -Answer: sl{ready}
 
