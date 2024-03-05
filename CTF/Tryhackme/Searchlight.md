@@ -204,12 +204,50 @@ Let's start by downloading the given Task.
 ![tes 4](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/0d37cc1c-343a-43af-a1fb-6abc5042e637)
 
 - Answer: sl{andrew knowlton}
+  
+## Task 7: Locate this sculpture
+![vDAqWCZ](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/b8b9b3ca-074d-457a-9c0b-0347dc674569)
 
-
+Now that we have hand on practice of different tool and techniques , let use that knowledge to crack the below challenge questions by using the image provided:
 
 ![task7](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/f2f72b49-3adc-4120-a31f-b03315ecde25)
 
-### Q1: 
+### Q1: What is the name of this statue?
+- By using Google Image Search or other tools, I found a lot of sites about the sculpture.
+
+![Inkedtek 7_LI](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/4843b078-4738-48ee-a17e-2d2890e8a318)
+
+- Checking on that website only provided me with the location of the sculpture, but I didn't know its name.
+
+![111](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/e61816d2-e68f-450b-8dfd-0558ddca999c)
+
+- So what I did next is that I conducted an OSINT search on the motorcycle sculpture in Tjuvholmen, Oslo, and I found a site that provided me with the name. BINGO 😂
+
+![222223](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/8bad7a11-ab77-485d-a088-45af2a9b4c59)
+
+![222](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/f4d797fc-51d3-40b4-9756-ecf96ad38489)
+
+- Answer: sl{rudolph the chrome nosed reindeer}
+
+### Q2: Who took this image?
+- Then, after I found the name of the sculpture, I conducted research on it as well. I found a site that provided me with the name of the individual who took the image.
+
+![333](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/86bebaa6-5144-4d05-89f8-4b234ca4664c)
+
+![444](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/8535e1cb-1392-473a-a969-bbb387faacde)
+
+- Answer: sl{kjersti stensrud}
+
+***
+## Task 8:  ...and justice for all
+- Continuing our reverse image search, let's try to figure out the answers to the challenge questions using the provided image.
+  
+![task8](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/3f835ed2-9f1e-4e07-88c5-cb9264309115)
+
+## Q1: What is the name of the character that the statue depicts?
+
+
+
 
 
 
