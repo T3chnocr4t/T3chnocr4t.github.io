@@ -123,6 +123,7 @@ Let's start by downloading the given Task.
 - Looking at the Wikipedia page.
 - Answer: sl{richmond}
 
+***
 ## Task 5: Coffee and a light lunch
 - Download the given task
 
@@ -154,6 +155,33 @@ Let's start by downloading the given Task.
 - Answer: sl{allan street}
 
 ### Q3: What is their phone number?
+- You can see the phone number in the above graphic
+- Answer: sl{+447878 839128}
+
+### Q4: What is their email address?
+- By clicking on the site, we can find more information about them, and we can see that they have a website.
+
+![Inkedfood_LI](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/b6e4b742-3ba2-4fdf-8239-5ac846792744)
+
+- So the website led me to the official Facebook page, and there I found their email.
+
+![food 4](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/4c994e82-0e5b-4a9e-9e9f-52570c9e61b3)
+
+- Answer: sl{theweecoffeeshop@aol.com}
+
+### Q5: What is the surname of the owners?
+- By examining another website, I managed to discover the owner. Or researching who the owner is will definitely provide the answer.
+
+![owner](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/99612af6-91f2-4d4a-8e3a-23df42964af4)
+
+- Answer: sl{cochrane}
+
+***
+## Tsk 6:  Reverse your thinking
+
+
+
+
 
 
 
