@@ -306,6 +306,7 @@ Making research on the Riverside Point building using Google Image Search, I qui
 ![vid 9](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/24c8d02f-f903-4b1f-8adb-9807d3bd8999)
 
 - By viewing and examining the street map, I found the hotel where the video was taken. As you can recall from the videos, you can see the pool and the roads.
+- It is amusing that Google Maps didn't show the name of the building. I had to conduct research on it again, and then I found the name.
 
 ![VID 12](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/691687ac-0555-4fca-94b8-48c544590a75)
 
