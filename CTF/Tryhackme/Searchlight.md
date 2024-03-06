@@ -285,38 +285,36 @@ Now that we have hand on practice of different tool and techniques , let use tha
 ### Q1: What is the name of the hotel that my friend stayed in a few years ago? 
 - I took a look at the downloaded video and found many interesting buildings.
 
-![1](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/fb6fa8c8-0894-498d-9da9-35ccec1b80ad)
+1)
+[1](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/fb6fa8c8-0894-498d-9da9-35ccec1b80ad)
 
+2)
 ![2](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/d0affad4-d6f3-4398-8f9e-cea7da293a05)
 
-
-![VID 12](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/691687ac-0555-4fca-94b8-48c544590a75)
-
+3)
 ![vid 1](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/55e6bf02-d8ee-4025-acac-e20f5af4cdbb)
+
+- 
+Making research on the Riverside Point building using Google Image Search, I quickly found it is located in Singapore from the search results.
 
 ![vid 6](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/0db63eab-51bf-4415-af27-a06c251126e6)
 
-![vid 9](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/24c8d02f-f903-4b1f-8adb-9807d3bd8999)
+- By using Google Maps to verify if I am correct.
 
 ![vid 10](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/02a5b916-d336-4e0f-a349-5de09650fe5c)
 
+![vid 9](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/24c8d02f-f903-4b1f-8adb-9807d3bd8999)
 
+- By viewing and examining the street map, I found the hotel where the video was taken. As you can recall from the videos, you can see the pool and the roads.
 
+![VID 12](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/691687ac-0555-4fca-94b8-48c544590a75)
 
-
-
-
-
-
-- And we are done 👋! That's all, friends. Thank you for reading up to this point. I would like to hear your feedback on anything not clear here. Here is my Twitter account @[T3chnocr4t](https://twitter.com/T3chnocr4t). Feel free to DM me if you have any issues with my write-up. Thanks!
+- Answer: sl{novotel singapore clarke quay}
+ 
+- And we are done! 👋 That's all, friends. Thank you for reading up to this point. I know it was a long read. I will try to make it shorter next time. I would like to hear your feedback on anything that was not clear here. Here is my Twitter account @[T3chnocr4t](https://twitter.com/T3chnocr4t). Feel free to DM me if you have any issues with my write-up. Thanks!
 
 
 [Go Back Home](https://t3chnocr4t.github.io/)
-
-![tenor](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/f8407250-3751-4845-afc9-b10aefdfa35e)
-
-
-
 
 
 
