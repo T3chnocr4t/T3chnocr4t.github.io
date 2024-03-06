@@ -282,9 +282,29 @@ Now that we have hand on practice of different tool and techniques , let use tha
 ![vQJdwUh (1)](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/5ab64e16-f311-4387-ac9e-a19a1d19741f)
 
 - Geolocating videos aren't much different from geolocating images. A video is just a string of images, usually played at 24 frames(or images) per second. In other words, a video will hold a whole lot more images that can be analyzed, reversed and scrutinized by you.
+### Q1: What is the name of the hotel that my friend stayed in a few years ago? 
+- I took a look at the downloaded video and found many interesting buildings.
+
+![1](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/fb6fa8c8-0894-498d-9da9-35ccec1b80ad)
+
+![2](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/d0affad4-d6f3-4398-8f9e-cea7da293a05)
 
 
-- complete it soon
+![VID 12](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/691687ac-0555-4fca-94b8-48c544590a75)
+
+![vid 1](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/55e6bf02-d8ee-4025-acac-e20f5af4cdbb)
+
+![vid 6](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/0db63eab-51bf-4415-af27-a06c251126e6)
+
+![vid 9](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/24c8d02f-f903-4b1f-8adb-9807d3bd8999)
+
+![vid 10](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/02a5b916-d336-4e0f-a349-5de09650fe5c)
+
+
+
+
+
+
 
 
 
