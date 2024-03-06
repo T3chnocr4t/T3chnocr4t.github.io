@@ -3,7 +3,7 @@
 ## Difficulty = Easy
 
 ***
-Hola👋 Welcome back. Here is a walkthrough on Searchlight IMINT based on TryHackMe. It covers learning the discipline of IMINT/GEOINT, which stands for Image Intelligence and Geospatial Intelligence.
+Hola👋 Welcome back. Here is a walkthrough on [Searchlight IMINT](https://tryhackme.com/room/searchlightosint) based on TryHackMe. It covers learning the discipline of IMINT/GEOINT, which stands for Image Intelligence and Geospatial Intelligence.
 
 ![1](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/08f2137b-2295-4439-82b2-8efd00166638)
 
