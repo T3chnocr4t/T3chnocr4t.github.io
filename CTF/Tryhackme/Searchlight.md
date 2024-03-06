@@ -286,7 +286,7 @@ Now that we have hand on practice of different tool and techniques , let use tha
 - I took a look at the downloaded video and found many interesting buildings.
 
 1)
-[1](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/fb6fa8c8-0894-498d-9da9-35ccec1b80ad)
+![1](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/51cfd20f-ed65-4a3f-a71b-7643e6369c2e)
 
 2)
 ![2](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/d0affad4-d6f3-4398-8f9e-cea7da293a05)
