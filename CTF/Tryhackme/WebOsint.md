@@ -28,20 +28,24 @@ Just because nothing shows up when you visit `RepublicOfKoffee.com`, doesn't mea
 A 'WHOIS' lookup is the most basic form of domain reconnaissance available. There are multiple websites that will do it for you as well.
 
 ### Q1: What is the name of the company the domain was registered with?
-- First, let's look up the domain name using the [WHOIS website](https://www.whois.com/). The WHOIS tool is used to retrieve information about domain names, including registration details, the domain owner's contact information, registration and expiration dates, name server information, and more.
+- First, let's look up the domain name using the [WHOIS website](https://www.whois.com/).
+
+**_The WHOIS tool is used to retrieve information about domain names, including registration details, the domain owner's contact information, registration and expiration dates, name server information, and more._**
 
 ![osint3](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/4411e053-4a05-4e51-9bdb-20ff22e623c6)
 
 - Answer: Namecheap Inc
 
 ### Q2: What phone number is listed for the registration company? (do not include country code or special characters/spaces)
-- We can gather a lot of information about the website by using OSINT tools
+- We can gather a lot of information about the website by using the tools
 
 ![osint 5](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/8977f544-1e5c-4515-a193-8d334b887ac9)
 
 ### Q3: What is the first nameserver listed for the site?
 
 ![osint 6](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/b43e7d7f-1c05-4f52-a7fb-cd1d62926783)
+
+- Answer: ns1.brainydns.com
 
 ### Q4: What is listed for the name of the registrant?
 
