@@ -51,6 +51,8 @@ A 'WHOIS' lookup is the most basic form of domain reconnaissance available. Ther
 
 ![osint 7](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/c5a658db-8c45-43f7-8d85-acc579e33342)
 
+- Answer: redacted for privacy
+
 ### Q5: What country is listed for the registrant?
 - We got the name of the country, which is 'IS,' but that is a short code for a country. By using this [website](https://www.iban.com/country-codes), we can determine that the country is Iceland or by conducting research on the city Reykjavik, which is the capital of Iceland.
 
