@@ -76,8 +76,9 @@ Don't be discouraged if your initial searches on a website yield no results. Tha
 
 ![osint 12](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/4061514c-5dbb-440f-b3c6-a748c2015c79)
 
-- Answer: Steve
 ![osint 13](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/1320df23-8374-4642-9ec4-7eece3d654ba)
+
+- Answer: Steve
 
 ### Q2: What city and country was the author writing from?
 - By reading each and every blog, one consistent detail was the mention of the city name "Gwangju." Upon conducting research, it was found to be located in South Korea.
