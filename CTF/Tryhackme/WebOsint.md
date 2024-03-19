@@ -107,11 +107,15 @@ But what about technical details? That's where [ViewDNS.info](https://viewdns.in
 
 ![osint 18](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/9aa39f9c-7f15-4a72-b08b-8595e0e58f78)
 
+- Answer: 173.248.188.152
+
 ### Q2: Based on the other domains hosted on the same IP address, what kind of hosting service can we safely assume our target uses?
 
 ![osint 19](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/26ff94ba-f4c6-421a-a37a-48b0850bc84c)
 
+- There are 82 domains hosted on the server.
 - But we get that. By checking the hint question: What kind of hosting plan is usually used by websites on a tight budget that don't have a lot of visitors? The answer is  `shared` because Shared hosting is a type of web hosting service where multiple websites are hosted on a single physical server. Click [Here](https://www.quicksprout.com/types-of-web-hosting/) to learn more.
+
 - Answer: Shared
 
 ***
@@ -134,6 +138,7 @@ But what about technical details? That's where [ViewDNS.info](https://viewdns.in
 
 ### Q3: Based on domains that share the same IP, what kind of hosting service is the domain owner using?
 - Using the current IP, I utilized the Reverse IP Lookup tool and found that this was also likely SHARED.
+
 - Answer: Shared
 
 ### Q4: On what date did was the site first captured by the internet archive? (MM/DD/YY format)
@@ -172,6 +177,7 @@ These following questions refer to `heat.net/36/need-to-hire-a-commercial-heatin
 
 ### Q1: How many internal links are in the text of the article?
 - This task is quite simple. Just go through the text and count the links. You can tell if they're internal by hovering over them and seeing where they lead. If they take you to another page on heat.net, they're internal links.
+
 - Answer: 5
 
 ### Q2: How many external links are in the text of the article?
