@@ -23,6 +23,7 @@ In my blog posts, I share hacking tricks, detailed writeups, insightful articles
 | [ohSINT](https://T3chnocr4t.github.io/CTF/Tryhackme/ohSINT.html) | `OSINT, GOOGLE` |  feb 21 2024 | 
 | [RootMe](https://T3chnocr4t.github.io/CTF/Tryhackme/RootMe.html) | `reverse shell, priv escal` | mar 3 2024  |
 | [Searchlight](https://T3chnocr4t.github.io/CTF/Tryhackme/Searchlight.html) | `IMINT, GEOINT, OSINT` | mar 5 2024 |
+| [WebOsint](https://github.com/T3chnocr4t/T3chnocr4t.github.io/CTF/Tryhackme/WebOsint.html) | `WebOsint, Researching` | mar 19 2024 |
 
 ## Scripting:~#
 
