@@ -17,14 +17,14 @@ The first thing we do when we are given the name of a website/business to check 
 #### What if the website, or even the entire business, no longer exists?
 That does NOT mean it's the end of the road. So let's begin.
 This OSINT challenge starts off by focusing on a domain called ``RepublicofKoffee.com``.
-It should be noted that when this challenge was created, the website related to that domain did not exist. Our job is to find as much information as you can about the website RepublicofKoffee.com. Let's get started and look for information that we can find from the website.
+It should be noted that when this challenge was created, the website related to that domain did not exist. Our job is to find as much information as you can about the website `RepublicofKoffee.com`. Let's get started and look for information that we can find from the website.
 
 ### Q1: Click To Complete
 Answer: No Answer Needed
 
 ***
 ## Task 2: Whois Registration
-Just because nothing shows up when you visit 'RepublicOfKoffee.com,' doesn't mean that someone doesn't own the domain. We can confirm the current registration status with a WHOIS lookup.
+Just because nothing shows up when you visit `RepublicOfKoffee.com`, doesn't mean that someone doesn't own the domain. We can confirm the current registration status with a WHOIS lookup.
 A 'WHOIS' lookup is the most basic form of domain reconnaissance available. There are multiple websites that will do it for you as well.
 
 ### Q1: What is the name of the company the domain was registered with?
