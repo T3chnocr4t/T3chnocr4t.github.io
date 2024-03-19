@@ -91,6 +91,7 @@ Don't be discouraged if your initial searches on a website yield no results. Tha
 ## Task 4: Digging into DNS 
 So far we've gathered some good info about the content that was on our target website, even though it hasn't been live for several years.
 But what about technical details? That's where [ViewDNS.info](https://viewdns.info) comes in. 
+
 **_ViewDNS.info is a website offering tools and services related to DNS and domain information. It allows users to look up domain details, perform reverse IP lookups, check DNS propagation status, generate DNS reports, and conduct domain research. It's a valuable resource for gathering domain-related information and troubleshooting DNS issues._**
 - Take a look at the search options available and we can answer the question below:
 
