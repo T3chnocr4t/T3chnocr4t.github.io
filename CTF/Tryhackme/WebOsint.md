@@ -21,8 +21,8 @@ It should be noted that when this challenge was created, the website related to 
 
 ### Q1: Click To Complete
 Answer: No Answer Needed
-***
 
+***
 ## Task 2: Whois Registration
 Just because nothing shows up when you visit 'RepublicOfKoffee.com,' doesn't mean that someone doesn't own the domain. We can confirm the current registration status with a WHOIS lookup.
 A 'WHOIS' lookup is the most basic form of domain reconnaissance available. There are multiple websites that will do it for you as well.
@@ -54,11 +54,62 @@ A 'WHOIS' lookup is the most basic form of domain reconnaissance available. Ther
 
 - Answer: Iceland
 
+***
 ## Task 3: Ghosts of Websites Past 
-Don't be discouraged if your initial searches on a website yield no results. That's where Archive.org and the Internet Wayback Machine come into play.
+Don't be discouraged if your initial searches on a website yield no results. That's where [Archive.org](https://archive.org/web/) and the Internet Wayback Machine come into play.
 
 #### What is Internet Wayback Machine 🚙 ?
-The Wayback Machine, is an online digital archive maintained by the Internet Archive. It stores snapshots of web pages taken at various points in time, allowing users to access historical versions of websites. This archive enables users to view how websites looked and what content they contained at different points in the past. It serves as a valuable resource for research, historical preservation, and accessing information that may have been removed or changed on the live web.
+**_The Wayback Machine, is an online digital archive maintained by the Internet Archive. It stores snapshots of web pages taken at various points in time, allowing users to access historical versions of websites. This archive enables users to view how websites looked and what content they contained at different points in the past. It serves as a valuable resource for research, historical preservation, and accessing information that may have been removed or changed on the live web._**
+
+- Looking at the historical information available for the site, you should be able to answer the following questions:
+
+### Q1: What is the first name of the blog's author?
+- I entered the domain name into the Wayback Machine and found the website. It was a blogging site. I opened one of the blogs and discovered the name of the author.
+
+![osint 10](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/1db0e75b-c657-4628-9a00-d6951ba6c637)
+
+![osint 12](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/4061514c-5dbb-440f-b3c6-a748c2015c79)
+
+- Answer: Steve
+![osint 13](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/1320df23-8374-4642-9ec4-7eece3d654ba)
+
+### Q2: What city and country was the author writing from?
+- By reading each and every blog, one consistent detail was the mention of the city name "Gwangju." Upon conducting research, it was found to be located in South Korea.
+
+![osint 15](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/35467ea3-65c8-4a4b-b0ad-e762ad8d0baa)
+
+- Answer: Gwangju, South Korea
+
+### Q3: [Research] What is the name (in English) of the temple inside the National Park the author frequently visits?
+- I got one blog where the author mentioned finding himself having a meeting in `Mudeungsan National Park` in Gwangju. By conducting research, I found the English name.
+
+![osint 16](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/59b0e295-aef3-45dd-aebe-0bee2ac5c9cd)
+
+- Answer: Jeungsimsa Temple
+
+***
+## Task 4: Digging into DNS 
+So far we've gathered some good info about the content that was on our target website, even though it hasn't been live for several years.
+But what about technical details? That's where [ViewDNS.info](https://viewdns.info) comes in. 
+**_ViewDNS.info is a website offering tools and services related to DNS and domain information. It allows users to look up domain details, perform reverse IP lookups, check DNS propagation status, generate DNS reports, and conduct domain research. It's a valuable resource for gathering domain-related information and troubleshooting DNS issues._**
+- Take a look at the search options available and we can answer the question below:
+
+### Q1: What was RepublicOfKoffee.com's IP address as of October 2016?
+- Use the IP History tool, which shows the historical IP addresses associated with a domain.
+
+![osint 18](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/9aa39f9c-7f15-4a72-b08b-8595e0e58f78)
+
+### Q2: Based on the other domains hosted on the same IP address, what kind of hosting service can we safely assume our target uses?
+
+![osint 19](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/26ff94ba-f4c6-421a-a37a-48b0850bc84c)
+
+- But we get that. By checking the hint question: What kind of hosting plan is usually used by websites on a tight budget that don't have a lot of visitors? The answer is  `shared` because Shared hosting is a type of web hosting service where multiple websites are hosted on a single physical server. Click [Here](https://www.quicksprout.com/types-of-web-hosting/) to learn more.
+- Answer: Shared
+
+
+
+
+
 
 
 
