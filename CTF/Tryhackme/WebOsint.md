@@ -106,6 +106,128 @@ But what about technical details? That's where [ViewDNS.info](https://viewdns.in
 - But we get that. By checking the hint question: What kind of hosting plan is usually used by websites on a tight budget that don't have a lot of visitors? The answer is  `shared` because Shared hosting is a type of web hosting service where multiple websites are hosted on a single physical server. Click [Here](https://www.quicksprout.com/types-of-web-hosting/) to learn more.
 - Answer: Shared
 
+***
+## Task 5: Taking Off The Training Wheels 
+- We are given a domain `heat.net` to use all the skills we have learned so far to answer the question 😂
+
+### Q1: What is the second nameserver listed for the domain? 
+- Using the WHOIS tool, we found the second name server.
+
+![update](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/2a9f9231-eab7-4680-8e58-232b57ddf91c)
+
+- Answer: NS2.HEAT.NET
+
+### Q2: What IP address was the domain listed on as of December 2011?
+- Hmm... that will be IP history, right? By using the ViewDNS.info tools
+
+![update 1](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/e4fdbb66-1239-484e-94f9-d04ca8d90d11)
+
+- Answer: 72.52.192.240
+
+### Q3: Based on domains that share the same IP, what kind of hosting service is the domain owner using?
+- Using the current IP, I utilized the Reverse IP Lookup tool and found that this was also likely SHARED.
+- Answer: Shared
+
+### Q4: On what date did was the site first captured by the internet archive? (MM/DD/YY format)
+- Using the Wayback Machine, we can see that the domain was captured over 834 times between June 1, 1997, and March 15, 2024
+
+![osint 22](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/1d15a773-de16-4d84-af2f-bc0719838e10)
+
+- Answer: 06/01/97
+
+### Q5: What is the first sentence of the first body paragraph from the final capture of 2001?
+- July 6, 2001, is the last capture for 2001. Checking the snapshot, we have:
+
+![osint 23 up](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/792e7e8d-64c8-421e-86ee-90e78fd8e766)
+
+![osint 23](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/76696ec3-41d1-4cd9-96db-9d5c73d583d0)
+
+- Answer: After years of great online gaming, it’s time to say good-bye.
+
+### Q6: Using your search engine skills, what was the name of the company that was responsible for the original version of the site? 
+
+![osint 24](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/87ce549e-a4ba-487f-a9d9-dfb01421dbb9)
+
+- Answer: SegaSoft
+
+### Q7: What does the first header on the site on the last capture of 2010 say?
+- The last capture was on December 31, 2010.
+
+![osint 25](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/1a8aded6-671f-44df-94e6-afa406f0da8a)
+
+- Answer: Heat.net – Heating and Cooling
+
+***
+## Task 6: Taking A Peek Under The Hood Of A Website 
+Often, clues about a website and its creator/owner may be unintentionally left behind in the source code of the website. Pretty much every web browser will have a method of doing this. By viewing the page source of a website, we could get more information about it.
+These following questions refer to `heat.net/36/need-to-hire-a-commercial-heating-contractor/`
+
+### Q1: How many internal links are in the text of the article?
+- This task is quite simple. Just go through the text and count the links. You can tell if they're internal by hovering over them and seeing where they lead. If they take you to another page on heat.net, they're internal links.
+- Answer: 5
+
+### Q2: How many external links are in the text of the article?
+- Answer: 1
+
+### Q3: Website in the article's only external link ( that isn't an ad)
+- the external link lead us to purchase.org
+
+![osint 26](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/384f01a2-f485-4a8e-8382-78813283aa2d)
+
+### Q4: Try to find the Google Analytics code linked to the site
+- For this question, right-click anywhere on the page and select "View Page Source."
+- Use Ctrl+F to search for 'UA-'.
+
+![osint 27](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/54495452-4eff-4b94-b2bd-be590763f301)
+
+- Answer: UA-251372-24
+
+### Q5: Is the the Google Analytics code in use on another website? Yay or nay
+- You can use [nerdydata](https://www.nerdydata.com/) to search for the Google Adsense ID.
+- Here we can see that only one website is using it:
+
+![one](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/a5b066da-3dc6-4b75-a1e6-deee274ffc7e)
+
+- Answer: nay
+
+### Q6: Does the link to this website have any obvious affiliate codes embedded with it? Yay or Nay
+- No I searched for href and there was no any affiliate links
+- Answer: nay
+
+***
+## Task 7: Final Exam: Connect the Dots 
+### Q1:  Use the tools in Task 4 to confirm the link between the two sites. Try hard to figure it out without the hint.
+- I used viewdns.info to compare the results of both the domains heat.net and purchase.org. One common finding was that the owner of both companies was Liquid Web, L.L.C.
+
+![1](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/ed7de042-2bb8-41a4-a0b3-1c55c45d9d90)
+
+![2](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/0e59468a-cc14-4e28-acb1-ec51d3db77ff)
+
+- Answer: Liquid Web, L.L.C
+
+***
+## Task 8: Debriefing 
+- Answer: No Answer Needed
+
+***
+## Task 9: Wrap-up 
+- Answer: No Answer Needed
+
+And we are done 👋! That's all, friends. Thank you for reading up to this point. I would like to hear your feedback on anything not clear here. Here is my Twitter account @[T3chnocr4t](https://twitter.com/T3chnocr4t). Feel free to DM me if you have any issues with my write-up. Thanks!
+
+
+[Go Back Home](https://t3chnocr4t.github.io/)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
