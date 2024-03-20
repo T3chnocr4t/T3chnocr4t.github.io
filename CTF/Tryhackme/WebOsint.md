@@ -41,6 +41,8 @@ A 'WHOIS' lookup is the most basic form of domain reconnaissance available. Ther
 
 ![osint 5](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/8977f544-1e5c-4515-a193-8d334b887ac9)
 
+- Answer: 9854014545
+
 ### Q3: What is the first nameserver listed for the site?
 
 ![osint 6](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/b43e7d7f-1c05-4f52-a7fb-cd1d62926783)
