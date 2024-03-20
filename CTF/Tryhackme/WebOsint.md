@@ -216,7 +216,7 @@ These following questions refer to `heat.net/36/need-to-hire-a-commercial-heatin
 ### Q1:  Use the tools in Task 4 to confirm the link between the two sites. Try hard to figure it out without the hint.
 - I used viewdns.info to compare the results of both the domains heat.net and purchase.org. One common finding was that the owner of both companies was Liquid Web, L.L.C.
 
-![1](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/ed7de042-2bb8-41a4-a0b3-1c55c45d9d90)
+![Annotation 2024-03-20 235530](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/d3ab4994-355c-4088-89a8-47e9cbfcd74f)
 
 ![2](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/0e59468a-cc14-4e28-acb1-ec51d3db77ff)
 
