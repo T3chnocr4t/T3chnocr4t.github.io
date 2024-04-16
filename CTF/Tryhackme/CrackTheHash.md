@@ -122,6 +122,7 @@ Salt: aReallyHardSalt
 
 - Answer: waka99
 
+***
 ### Q4: Hash: e5d8870e5bdd26602cab8dbe07a942c8669e56d6
 
 Salt: tryhackme
@@ -133,6 +134,7 @@ Salt: tryhackme
 
 - Answer: 481616481616
 
+***
 And we are done 👋! That's all, friends. Thank you for reading up to this point. I would like to hear your feedback on anything not clear here. Here is my Twitter account @[T3chnocr4t](https://twitter.com/T3chnocr4t). Feel free to DM me if you have any issues with my write-up. Thanks!
 
 
