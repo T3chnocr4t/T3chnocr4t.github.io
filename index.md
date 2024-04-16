@@ -24,7 +24,7 @@ In my blog posts, I share hacking tricks, detailed writeups, insightful articles
 | [RootMe](https://T3chnocr4t.github.io/CTF/Tryhackme/RootMe.html) | `reverse shell, priv escal` | mar 3 2024  |
 | [Searchlight](https://T3chnocr4t.github.io/CTF/Tryhackme/Searchlight.html) | `IMINT, GEOINT, OSINT` | mar 5 2024 |
 | [WebOsint](https://T3chnocr4t.github.io/CTF/Tryhackme/WebOsint.html) | `WebOsint, Researching` | mar 19 2024 |
-| [CrackTheHash](https:T3chnocr4t.github.io/CTF/Tryhackme/CrackTheHash.html) | `Hash, Cracking` | apr 16 2024 |
+| [CrackTheHash](https://t3chnocr4t.github.io/CTF/Tryhackme/CrackTheHash.html) | `Hash, Cracking` | apr 16 2024 |
 
 ## Scripting:~#
 
