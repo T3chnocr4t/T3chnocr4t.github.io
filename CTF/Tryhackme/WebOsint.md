@@ -20,7 +20,7 @@ This OSINT challenge starts off by focusing on a domain called ``RepublicofKoffe
 It should be noted that when this challenge was created, the website related to that domain did not exist. Our job is to find as much information as you can about the website `RepublicofKoffee.com`. Let's get started and look for information that we can find from the website.
 
 ### Q1: Click To Complete
-Answer: No Answer Needed
+- Answer: No Answer Needed
 
 ***
 ## Task 2: Whois Registration
