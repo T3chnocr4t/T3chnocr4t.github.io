@@ -113,7 +113,34 @@ You might have to start using hashcat here and not online tools. It might also b
 ### Q3: Hash: $6$aReallyHardSalt$6WKUTqzq.UQQmrm0p/T7MPpMbGNnzXPMAXi4bJMl9be.cfi3/qxIf.hsGpS41BqMhSrHVXgMpdjS6xeKZAs02.
 
 Salt: aReallyHardSalt
+
 **_A salt is a random string of characters that is added to the input data before it is hashed._**
+- Check the Hashcat page. We can see it's SHA-512(SHA-512 hashes start with the characters "$6$") hash type. So, I'm using Hashcat to crack it. This might take a while.
+- hash type in hashcat is -1800
+
+``hashcat -m 1800 "\$6\$aReallyHardSalt\$6WKUTqzq.UQQmrm0p/T7MPpMbGNnzXPMAXi4bJMl9be.cfi3/qxIf.hsGpS41BqMhSrHVXgMpdjS6xeKZAs02." /usr/share/wordlists/rockyou.txt — show``
+
+- Answer: waka99
+
+### Q4: Hash: e5d8870e5bdd26602cab8dbe07a942c8669e56d6
+
+Salt: tryhackme
+
+- Hint: HMAC-SHA1
+- This might take a while, so by setting the mode to 160, we'll get the answer.
+
+``hashcat -m 160 "e5d8870e5bdd26602cab8dbe07a942c8669e56d6:tryhackme" /usr/share/wordlists/rockyou.txt``
+
+- Answer: 481616481616
+
+And we are done 👋! That's all, friends. Thank you for reading up to this point. I would like to hear your feedback on anything not clear here. Here is my Twitter account @[T3chnocr4t](https://twitter.com/T3chnocr4t). Feel free to DM me if you have any issues with my write-up. Thanks!
+
+
+[Go Back Home](https://t3chnocr4t.github.io/)
+
+
+
+
 
 
 
