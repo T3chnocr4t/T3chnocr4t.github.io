@@ -15,6 +15,7 @@ Hashes are used to secure passwords, verify data integrity, generate digital sig
 ## Task 1: Level 1
 ### Q1: 48bb6e862e54f2a795ffc4e541caed4d
 - First, we're given a hash to crack. Before cracking it, we need to determine its hash type. There are different types of hashes, such as MD5, SHA256, bcrypt, and others. To identify the hash type, we can use various tools, including online hash identifier websites or specific software tools. In this case, I used a hash identifier tool designed for identifying hashes.
+
 - By using it, we could see possible results which is md5.
 
 ![1](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/0d8f1ce0-f3d4-481e-8e3b-321c66d5fe97)
