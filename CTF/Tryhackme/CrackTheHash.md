@@ -92,7 +92,7 @@ You might have to start using hashcat here and not online tools. It might also b
 ### Q1: Hash: F09EDCB1FCEFC6DFB23DC3505A882655FF77375ED8AA2D1C13F640FCCC2D0C85
 
 - Hash types is SHA-256(which is secure)
-- 
+
 ![12](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/8647f9e0-f7b6-40e2-8322-6db1c980b494)
 
 ``sudo john --wordlist=/usr/share/wordlists/rockyou.txt --format=Raw-SHA256 hashes5.txt``
