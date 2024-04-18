@@ -36,3 +36,10 @@ TryHackMe is an online platform that provides hands-on cybersecurity training th
 
 ## OverTheWire:~#
 
+If you have any issues with my write-up or if you'd like to connect with me, here is my Twitter [@T3chnocr4t](https://twitter.com/T3chnocr4t)
+
+
+
+
+
+
