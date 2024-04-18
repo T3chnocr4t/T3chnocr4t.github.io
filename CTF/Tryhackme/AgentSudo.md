@@ -142,7 +142,7 @@ You know the drill.
 
 - Answer: b03d975e8c92a7c04146cfa7a5a313c7
 
-### Q2: 
+### Q2: What is the incident of the photo called?
 - Exit the SSH session and copy the JPG file from the SSH service to your system using the following command:
 
 ![18](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/dad299c6-f097-48aa-abbf-372a2265fb5e)
