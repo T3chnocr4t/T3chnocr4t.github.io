@@ -17,14 +17,15 @@ In my blog posts, I share hacking tricks, detailed writeups, insightful articles
 
 ***
 ## Tryhackme:~#
+TryHackMe is an online platform that provides hands-on cybersecurity training through virtual labs, challenges, and interactive exercises.
 
 | Writeup | Description | Date |
 |---------|------------ | ---- |
-| [ohSINT](https://T3chnocr4t.github.io/CTF/Tryhackme/ohSINT.html) | `OSINT, GOOGLE` |  feb 21 2024 | 
-| [RootMe](https://T3chnocr4t.github.io/CTF/Tryhackme/RootMe.html) | `reverse shell, priv escal` | mar 3 2024  |
-| [Searchlight](https://T3chnocr4t.github.io/CTF/Tryhackme/Searchlight.html) | `IMINT, GEOINT, OSINT` | mar 5 2024 |
-| [WebOsint](https://T3chnocr4t.github.io/CTF/Tryhackme/WebOsint.html) | `WebOsint, Researching` | mar 19 2024 |
-| [CrackTheHash](https://T3chnocr4t.github.io/CTF/Tryhackme/CrackTheHash.html) | `Hash, Cracking` | apr 16 2024 |
+| [ohSINT](https://T3chnocr4t.github.io/CTF/Tryhackme/ohSINT.html) | `Are you able to use open source intelligence to solve this challenge?` |  feb 21 2024 | 
+| [RootMe](https://T3chnocr4t.github.io/CTF/Tryhackme/RootMe.html) | `A ctf for beginners, can you root me?` | mar 3 2024  |
+| [Searchlight](https://T3chnocr4t.github.io/CTF/Tryhackme/Searchlight.html) | `OSINT challenges in the imagery intelligence category` | mar 5 2024 |
+| [WebOsint](https://T3chnocr4t.github.io/CTF/Tryhackme/WebOsint.html) | `Conducting basic open source intelligence research on a website` | mar 19 2024 |
+| [CrackTheHash](https://T3chnocr4t.github.io/CTF/Tryhackme/CrackTheHash.html) | `Cracking hashes challenges` | apr 16 2024 |
 
 ## Scripting:~#
 
