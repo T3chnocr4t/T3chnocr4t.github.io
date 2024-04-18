@@ -103,14 +103,39 @@ ls
 
 - It points us to both a fake and a real picture. The fake picture conceals the login password for Agent J.
 
+![2024-04-18_10-04](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/f6c0f837-1d17-4928-89f5-498e28efa9d4)
+
 - There are many tools used to reveal information hidden in photos, so I chose to use binwalk.
 - binwalk (Is used for analyzing and extracting data embedded in files, particularly firmware images and other binary files.)
 
 ![13](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/4c5382cc-5f42-452f-a1af-508c2eb3af43)
 
 - So, in the case of cuite.png, binwalk extracted the information from there.
-
+- We can use the zip2john tool to extract password hashes from encrypted ZIP files, making it suitable for John, a password-cracking tool
+- `john hashes `
 ![15](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/e4a02d96-770f-4349-9f3c-f5b23685264a)
+
+- Answer: alien
+
+### Q3: steg password
+-  `stegseek cute-alien.jpg /usr/share/wordlists/rockyou.txt`
+-  For the second picture, there are many tools available, but I chose to use stegseek(is a tool used for steganography analysis, specifically for detecting hidden data within image files.)
+
+![16](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/7c9ab25d-c795-46f3-adb3-f7b16ba0c645)
+
+- Answer: Area51
+
+### Q4: Who is the other agent (in full name)?
+- Answer: james
+
+### Q5: SSH password
+- Answer: hackerrules
+
+***
+## Task 4: Capture the user flag
+
+
+
 
 
 
