@@ -113,6 +113,7 @@ ls
 - So, in the case of cuite.png, binwalk extracted the information from there.
 - We can use the zip2john tool to extract password hashes from encrypted ZIP files, making it suitable for John, a password-cracking tool
 - `john hashes `
+
 ![15](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/e4a02d96-770f-4349-9f3c-f5b23685264a)
 
 - Answer: alien
