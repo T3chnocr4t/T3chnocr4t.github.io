@@ -133,6 +133,62 @@ ls
 
 ***
 ## Task 4: Capture the user flag
+You know the drill.
+### Q1: What is the user flag?
+- log into james account using ssh
+
+![17](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/79f3161a-1fbf-4187-878c-ad2c79d58f92)
+
+- Answer: b03d975e8c92a7c04146cfa7a5a313c7
+
+### Q2: 
+- Exit the SSH session and copy the JPG file from the SSH service to your system using the following command:
+
+![18](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/dad299c6-f097-48aa-abbf-372a2265fb5e)
+
+- When performing a reverse image search( is a technique used to find information related to an image by using the image itself as the search query.), I prefer using Bing. From the results, most websites typically display three key points.
+
+![Alien_autospy](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/687d6ea7-c6da-4a55-839b-34a53a0f8009)
+
+![19](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/e415695f-0beb-4ff9-82e9-f4d2ddf806da)
+
+- Answer: Roswell alien autopsy
+
+## Task 5: Privilege escalation
+Time to get real.
+### Q1: CVE number for the escalation 
+- Log back into the SSH account and use `sudo -l` to list user's privileges or check a specific command; use twice for longer format
+
+![20](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/e6c23fb7-9144-4606-b1a3-7776c57b4f62)
+
+- Searching it on [Expliot.db](https://www.exploit-db.com/)
+
+![21](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/de28933f-63e3-48b1-a91e-be21b46204ee)
+
+- Answer: CVE -2019-14287
+
+### Q2: What is the root flag?
+- using the expliot:
+
+![22](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/fb0b79b9-84c1-413b-b804-1bb76bc8d0e8)
+
+- Gain root access by executing the above command. Then navigate to the root directory and locate the root.txt file.
+
+![final](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/660a6054-da2f-462e-b1ff-154c78de5093)
+
+b53a02f55b57d4439e3341834d70c062
+
+### Q3: (Bonus) Who is Agent R?
+DesKel
+
+And we are done 👋! That's all, friends. Thank you for reading up to this point. I would like to hear your feedback on anything not clear here. Here is my Twitter account @[T3chnocr4t](https://twitter.com/T3chnocr4t). Feel free to DM me if you have any issues with my write-up. Thanks!
+
+
+[Go Back Home](https://t3chnocr4t.github.io/)
+
+
+
+
 
 
 
