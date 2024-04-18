@@ -26,6 +26,7 @@ TryHackMe is an online platform that provides hands-on cybersecurity training th
 | [Searchlight](https://T3chnocr4t.github.io/CTF/Tryhackme/Searchlight.html) | `OSINT challenges in the imagery intelligence category` | mar 5 2024 |
 | [WebOsint](https://T3chnocr4t.github.io/CTF/Tryhackme/WebOsint.html) | `Conducting basic open source intelligence research on a website` | mar 19 2024 |
 | [CrackTheHash](https://T3chnocr4t.github.io/CTF/Tryhackme/CrackTheHash.html) | `Cracking hashes challenges` | apr 16 2024 |
+| [AgentSudo](https://T3chnocr4t.github.io/CTF/Tryhackme/AgentSudo.html) | `You found a secret server located under the deep sea. Your task is to hack inside the server and reveal the truth.`
 
 ## Scripting:~#
 
