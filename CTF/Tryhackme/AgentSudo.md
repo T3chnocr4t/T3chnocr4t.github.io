@@ -18,7 +18,7 @@ Enumerate the machine to gather all important information. Enumeration is the pr
 -  So, I began by utilizing one of the best enumeration and scanning tools, which is `Nmap`. Nmap is a powerful network scanning tool used to discover hosts and services on a computer network.
 - Running our nmap scan, give us this:
 
-```powershell
+```nmap
 # Nmap 7.94SVN scan initiated Tue Apr 16 23:17:19 2024 as: nmap -sV -A -oN ./nmap_result.txt 10.10.58.229
 Nmap scan report for 10.10.58.229
 Host is up (0.20s latency).
