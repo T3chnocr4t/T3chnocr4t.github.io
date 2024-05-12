@@ -29,6 +29,10 @@ TryHackMe is an online platform that provides hands-on cybersecurity training th
 | [AgentSudo](https://T3chnocr4t.github.io/CTF/Tryhackme/AgentSudo.html) | `You found a secret server located under the deep sea. Your task is to hack inside the server and reveal the truth.` | Apr 18 2024 |
 
 ***
+### WebSecAcademy[Portswigger]:~#
+
+
+***
 ## Scripting:~#
 
 | Writeup | Description | Date |
@@ -36,6 +40,7 @@ TryHackMe is an online platform that provides hands-on cybersecurity training th
 [Bash Scripting](https://T3chnocr4t.github.io/CTF/Scripting/Basic-Bash.html) | `Variables, echo` | jan 27 2024 |
 [Nmap Script](https://T3chnocr4t.github.io/CTF/Scripting/Simple-nmap-script.html) | `Nmap, Script` | jan 29 2024 |
 
+***
 ## OverTheWire:~#
 
 If you have any issues with my write-up or if you'd like to connect with me, here is my Twitter [@T3chnocr4t](https://twitter.com/T3chnocr4t)
