@@ -31,14 +31,17 @@ TryHackMe is an online platform that provides hands-on cybersecurity training th
 ***
 ### WebSecAcademy[Portswigger]:~#
 
+| Writeup | Description | Date |
+| ------- | ----------- | ---- |
+| [Access Control](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Access%20Control%20labs.html) | `security impact, broken access controls` | May 12 2024 |
 
 ***
 ## Scripting:~#
 
 | Writeup | Description | Date |
 | --------|------------ | ---- |
-[Bash Scripting](https://T3chnocr4t.github.io/CTF/Scripting/Basic-Bash.html) | `Variables, echo` | jan 27 2024 |
-[Nmap Script](https://T3chnocr4t.github.io/CTF/Scripting/Simple-nmap-script.html) | `Nmap, Script` | jan 29 2024 |
+| [Bash Scripting](https://T3chnocr4t.github.io/CTF/Scripting/Basic-Bash.html) | `Variables, echo` | jan 27 2024 |
+| [Nmap Script](https://T3chnocr4t.github.io/CTF/Scripting/Simple-nmap-script.html) | `Nmap, Script` | jan 29 2024 |
 
 ***
 ## OverTheWire:~#
