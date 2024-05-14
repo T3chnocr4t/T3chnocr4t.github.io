@@ -29,8 +29,8 @@ TryHackMe is an online platform that provides hands-on cybersecurity training th
 | [AgentSudo](https://T3chnocr4t.github.io/CTF/Tryhackme/AgentSudo.html) | `You found a secret server located under the deep sea. Your task is to hack inside the server and reveal the truth.` | Apr 18 2024 |
 
 ***
-### WebSecAcademy[Portswigger]:~#
-#### Access Controls Labs:#
+## WebSecAcademy[Portswigger]:~#
+### Access Controls Labs:#
 
 | Writeup | Description | Date |
 | ------- | ----------- | ---- |
