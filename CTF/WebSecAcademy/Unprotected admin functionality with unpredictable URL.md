@@ -6,10 +6,12 @@ Hola 👋 welcome back. This is the Lab 2# [Unprotected Admin Functionality with
 
 ![access-control](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/233707e5-1d04-409f-b413-33766ae43a5b)
 
+***
 ### End Goal :#
 - Locating and accessing the admin panel
 - And using it to delete the user carlos.
 
+***
 ### Testing For vulnerabilities:
 
 ![2024-05-14_16-16](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/7b5fa990-d69b-46e1-b338-45699044b86a)
