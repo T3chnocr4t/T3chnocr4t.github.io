@@ -36,8 +36,7 @@ WebSec Academy is an online platform or resource dedicated to teaching and train
 | Writeup | Description | Date |
 | ------- | ----------- | ---- |
 | [Unprotected admin functionality](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Unprotected&20admin&20functionality.html) | `security impact, broken access controls` | May 12 2024 |
-
-| [Unprotected admin functionality With unpredictable URL](https://T3chnocr4t.github.io/blob/CTF/WebSecAcademy/Unprotected%20admin%20functionality%20with%20unpredictable%20URL.html) | `Broken accessc control, disclosed javascript, admin panel` | May 14 2024 |
+| [Unprotected admin functionality With unpredictable URL](https://T3chnocr4t.github.io/blob/CTF/WebSecAcademy/Unprotected%20admin%20functionality%20with%20unpredictable%20URL.html) | `Broken accessc control, javascript, admin panel` | May 14 2024 |
 ***
 ## Scripting:~#
 
