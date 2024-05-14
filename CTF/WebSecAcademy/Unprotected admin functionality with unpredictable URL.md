@@ -29,4 +29,12 @@ Hola 👋 welcome back. This is the Lab 2# [Unprotected Admin Functionality with
 
 ![2024-05-14_14-40](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/0f4d8117-21d5-430b-8d22-4c91a77004ec)
 
+- Going to the path to delete the user Carlos gives us a redirection and deletes the user.
 
+![2024-05-14_14-41](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/b89f7346-c659-4448-b29a-36cf3542c3dc)
+
+![2024-05-14_14-43_1](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/ce328048-0efc-4d95-bd28-a3da5400bb4c)
+
+That's all, friends. Thank you for reading up to this point. I would like to hear your feedback on anything not clear here. Here is my Twitter account @[T3chnocr4t](https://twitter.com/T3chnocr4t). Feel free to DM me if you have any issues with my write-up. Thanks!
+
+[Go Back Home](https://t3chnocr4t.github.io/)
