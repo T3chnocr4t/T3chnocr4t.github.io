@@ -1,6 +1,6 @@
 ## Whoami:~#🤔
 ***
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Hola+👋;Welcome+to+my+Cybersecurity+Blog;An+Aspiring+Security+Researcher." /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=25&lines=Hola+👋;Welcome+to+my+Cybersecurity+Blog;An+Aspiring+Security+Researcher." /></a>
 
 <p align="center">
   <img src="https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/c654195b-0943-4117-94a5-b00a5fc07def" alt="hacking" />
