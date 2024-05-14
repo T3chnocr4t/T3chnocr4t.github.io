@@ -14,7 +14,7 @@ Accessing the lab....
 
 ![2024-05-12_03-45](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/7d962a8d-dcfd-497a-aede-23f600203f45)
 
-- Using a proxy, I use Burp to intercept the request and specify an admin in the web directory path, but couldn't find anything in the response header. I received a 404 (not found) error.
+- Using a proxy, I use Burp and send all the requests to the Repeater tab, specifying 'admin' in the web directory path, but couldn't find anything in the response header. I received a 404 (not found) error.
 
 ![2024-05-12_02-19](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/f236dfcf-729c-4dd5-964d-858a1fbec0c6)
 
