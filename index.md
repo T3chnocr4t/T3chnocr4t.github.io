@@ -30,10 +30,11 @@ TryHackMe is an online platform that provides hands-on cybersecurity training th
 
 ***
 ### WebSecAcademy[Portswigger]:~#
+#### Access Controls Labs:#
 
 | Writeup | Description | Date |
 | ------- | ----------- | ---- |
-| [Access Control](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Access%20Control%20labs.html) | `security impact, broken access controls` | May 12 2024 |
+| [Unprotected admin functionality](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Access%20Control%20labs.html) | `security impact, broken access controls` | May 12 2024 |
 
 ***
 ## Scripting:~#
