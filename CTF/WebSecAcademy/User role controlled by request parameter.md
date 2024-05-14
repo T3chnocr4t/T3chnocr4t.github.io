@@ -33,7 +33,7 @@ Hola 👋 welcome back. This is the Lab 3# [User Role Controlled By Request Para
 
 ![7](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/525e2ff8-de99-4a24-9432-ebd26e909a3e)
 
-[9](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/a6c16c12-3bda-471c-ac00-20a91b7cad5e)
+![9](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/a6c16c12-3bda-471c-ac00-20a91b7cad5e)
 
 And we complete our goal by accessing the admin panel and deleting the user "Carlos".
 
