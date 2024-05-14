@@ -30,6 +30,7 @@ TryHackMe is an online platform that provides hands-on cybersecurity training th
 
 ***
 ## WebSecAcademy[Portswigger]:~#
+WebSec Academy is an online platform or resource dedicated to teaching and training individuals in the field of web security. 
 ### Access Controls Labs:#
 
 | Writeup | Description | Date |
