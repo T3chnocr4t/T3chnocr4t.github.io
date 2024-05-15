@@ -25,7 +25,7 @@ Hola 👋 welcome back. This is the Lab 3# [User Role Controlled By Request Para
 ![2024-05-15_00-05](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/556ef814-caf8-4aa4-a975-0ad33c90811b)
 
 - We can see that we are using the POST method (sending data to the server). We can send the request to the Repeater tab and modify it more effectively there.
-- Modify the request by changing the path to "/admin" and setting the cookie header value of "admin" to true. And use the cookie to acces the admin panel. Sending this request should take us to the admin panel. Bingo 😂
+- Modify the request by changing the path to "/admin" and setting the cookie header value of  "admin" from fasle ( admin=fasle indicates that the user associated with the cookie is not an administrator.) to true. And use the session to acces the admin panel. Sending this request should take us to the admin panel. Bingo 😂
 
 ![33](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/7ac84be3-5336-4a30-88c6-d943af71c779)
 
