@@ -39,7 +39,7 @@ WebSec Academy is an online platform or resource dedicated to teaching and train
 | [Unprotected admin functionality](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Unprotected&20admin&20functionality.html) | `security impact, broken access controls` | May 12 2024 |
 | [Unprotected admin functionality unpredictable URL](https://T3chnocr4t.github.io//CTF/WebSecAcademy/Unprotected%20admin%20functionality%20with%20unpredictable%20URL.html) | `Broken accessc control, Disclosed javascript, admin panel` | May 14 2024 |
 | [User role controlled by request parameter](https://T3chnocr4t.github.io/CTF/WebSecAcademy/User%20role%20controlled%20by%20request%20parameter.html) | `Burp Suite, Request Parameter` | May 15 2024 |
-| [User ID controlled by request parameter,with unpredictable user IDs](https://T3chnocr4t.github.io/WebSecAcademy/User%20ID%20controlled%20by%20request%20parameter,%20with%20unpredictable%20user%20IDs.html) | `API Keys, Unpredictable GUIDs, Horizontal Priv Escalation` | May 16 2024 |
+| [User ID controlled by request parameter,with unpredictable user IDs](https://T3chnocr4t.github.io/CTF/WebSecAcademy/User%20ID%20controlled%20by%20request%20parameter,%20with%20unpredictable%20user%20IDs.html) | `API Keys, Unpredictable GUIDs, Horizontal Priv Escalation` | May 16 2024 |
 
 ***
 ## Scripting:~#
