@@ -1,7 +1,7 @@
 ***
 # Path Traversal
 
-Hola 👋 welcome back, guys! Here is my write-up on all the labs in Path Traversal on Web Sec Academy, curated in one place. I will go through how I solved each lab. Let's get started!
+Hola 👋 welcome back, guys! Here is my write-up on all the labs in [Path Traversal](https://portswigger.net/web-security/file-path-traversal) on Web Sec Academy, curated in one place. I will go through how I solved each lab. Let's get started!
 
 ![directory-traversal](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/a11e326d-42e3-4cb3-b0c9-fd95511c1327)
 
@@ -61,7 +61,8 @@ End Goal:
 
 ***
 ### Lab #5: File path traversal, validation of start of path
-End Goal:  This lab contains a path traversal vulnerability in the display of product images. To solve the lab, retrieve the contents of the /etc/passwd file.
+End Goal:  
+This lab contains a path traversal vulnerability in the display of product images. To solve the lab, retrieve the contents of the /etc/passwd file.
 
 ![4a](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/4be8d4af-204b-408e-a950-bb7e4975b93c)
 
@@ -69,5 +70,25 @@ End Goal:  This lab contains a path traversal vulnerability in the display of pr
 
 ![4b](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/5cbf616f-129c-4dcb-b8de-ce1adfd378e0)
 
+***
+### Lab #6: File path traversal, validation of file extension with null byte bypass
+End Goal:  
+This lab contains a path traversal vulnerability in the display of product images. To solve the lab, retrieve the contents of the /etc/passwd file.
 
+![5a](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/126b96e3-8688-484b-a38c-81bea6835cef)
 
+- Send any product image request to the Repeater tab and modify the value of the parameter filename by using a null byte to terminate the file path before the required extension. Set the filename parameter to ../../../etc/passwd%00.png.
+
+![5c](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/df0a49ef-f8e6-48fa-ac4f-18266c84dc91)
+
+![5d](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/c05049ac-ac51-45be-83f4-278d1f862ad9)
+
+***
+### How to prevent a path traversal attack
+1) Validate all user inputs to filter out any unexpected characters or patterns.
+2) Employ allowlists to restrict file access exclusively to known, safe paths.
+3) Use allowlists or whitelists to restrict file access to known, safe paths. and so on.
+
+That's all, friends. Thank you for reading up to this point. I would like to hear your feedback on anything not clear here. Here is my Twitter account @[T3chnocr4t](https://twitter.com/T3chnocr4t). Feel free to DM me if you have any issues with my write-up. Thanks!
+
+[Go Back Home](https://t3chnocr4t.github.io/)
