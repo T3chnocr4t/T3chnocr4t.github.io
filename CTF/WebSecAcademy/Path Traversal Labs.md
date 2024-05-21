@@ -81,7 +81,7 @@ This lab contains a path traversal vulnerability in the display of product image
 
 ![5c](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/df0a49ef-f8e6-48fa-ac4f-18266c84dc91)
 
-![image](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/f60bdc74-5307-4768-9294-d5d3b4ebab02)
+![giphy](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/f5010410-c591-4549-b0fa-ec5ab02c29d8)
 
 ![5d](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/c05049ac-ac51-45be-83f4-278d1f862ad9)
 
