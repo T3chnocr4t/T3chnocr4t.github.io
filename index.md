@@ -32,7 +32,11 @@ TryHackMe is an online platform that provides hands-on cybersecurity training th
 ***
 ## WebSecAcademy[Portswigger]:~#
 WebSec Academy is an online platform or resource dedicated to teaching and training individuals in the field of web security. 
-### Access Controls Labs:#
+| Writeup | Description | Date |
+| ------- | ----------- | ---- |
+| [Path Traversal](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Path%20Traversal%20Labs.html) | `Directory Traversal, Web Vuln, Arbitrary Files` | May 21 2024 |
+
+#### Access Controls Labs:#
 
 | Writeup | Description | Date |
 | ------- | ----------- | ---- |
