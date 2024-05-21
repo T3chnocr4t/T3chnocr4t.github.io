@@ -9,7 +9,7 @@ Hola 👋 welcome back, guys! Here is my write-up on all the labs in [Path Trave
 **_Path traversal is also known as directory traversal. These vulnerabilities enable an attacker to read arbitrary files on the server that is running an application. This might include: Application code and data, Credentials for back-end systems, Sensitive operating system files._**
 
 ***
-### Lab #1: 
+### Lab #1: File Path traversal, Simple Case
 End Goal:
 - This lab contains a path traversal vulnerability in the display of product images. To solve the lab, retrieve the contents of the /etc/passwd file.
 
