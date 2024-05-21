@@ -37,6 +37,7 @@ End Goal:
 
 ![1c](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/222d6c68-4649-40c2-b026-4fb5f051948c)
 
+***
 ### Lab #3: File path traversal, traversal sequences stripped non-recursively
 End Goal:
 - To solve the lab, retrieve the contents of the /etc/passwd file.
@@ -47,13 +48,16 @@ End Goal:
 
 ![2b](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/3551871f-d653-40fc-b749-ae760c44c48c)
 
+***
+### Lab #: File path traversal, traversal sequences stripped with superfluous URL-decode
+End Goal:
+- This lab contains a path traversal vulnerability in the display of product images. To solve the lab, retrieve the contents of the /etc/passwd file.
 
+![3a](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/dc92ceba-d353-4ce2-bd3e-2f6e2fabf392)
 
+- To solve this lab, we can sometimes bypass this kind of sanitization by URL encoding, or even double URL encoding, the ../ characters. This results in %2e%2e%2f and %252e%252e%252f, respectively. Various non-standard encodings, such as ..%c0%af or ..%ef%bc%8f, may also work. Send any image product request to the Repeater tab.
 
-
-
-
-
+![3b](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/0aa8e8fc-f353-4f9f-a80e-1f91de99ca4b)
 
 
 
