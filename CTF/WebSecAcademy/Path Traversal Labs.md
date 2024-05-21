@@ -5,3 +5,10 @@ Hola 👋 welcome back, guys! Here is my write-up on all the labs in Path Traver
 
 ![directory-traversal](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/a11e326d-42e3-4cb3-b0c9-fd95511c1327)
 
+### What is Path Traversal 🤔
+**_Path traversal is also known as directory traversal. These vulnerabilities enable an attacker to read arbitrary files on the server that is running an application. This might include:_**
+
+**_Application code and data._**
+**_Credentials for back-end systems._**
+**_Sensitive operating system files._**
+
