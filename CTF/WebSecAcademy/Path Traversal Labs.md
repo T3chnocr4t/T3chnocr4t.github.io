@@ -43,9 +43,11 @@ End Goal:
 
 ![2a](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/82dfd868-9b9f-46f8-aac7-50c85241312b)
 
-- 
+- Send any image product request to the Repeater tab. We are going to use nested traversal sequences, such as ....// or ....\/, which are techniques used in path traversal attacks to bypass input validation filters. To access the /etc/passwd file on the server, put this path in the value of the filename parameter. This will solve the lab.
 
 ![2b](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/3551871f-d653-40fc-b749-ae760c44c48c)
+
+
 
 
 
