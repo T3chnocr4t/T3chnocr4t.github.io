@@ -19,7 +19,7 @@ End Goal:
 
 ![3](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/1c08cb4b-9ab5-47a0-8ea0-5f35429a0609)
 
-- This application implements no defenses against path traversal attacks. By modifying the request, we can retrieve the /etc/passwd file from the server's filesystem by stepping up one level in the directory structure. The three consecutive ../ sequences step up from /var/www/images/ to the filesystem root, and so the file that is actually read is /etc/passwd. We receive a 200 OK status code, indicating that the request was successful. We've successfully solved the first lab. Nice! Let's move on to the next one.
+- This application implements no defenses against path traversal attacks. By modifying the request, we can retrieve the /etc/passwd file from the server's filesystem by stepping up one level in the directory structure. The three consecutive ../ sequences step up from /var/www/images/ to the filesystem root, and so the file that is actually read is /etc/passwd. We receive a 200 OK status code after modifying the value of the filename parameter to `../../../etc/passwd`. indicating that the request was successful. We've successfully solved the first lab. Nice! Let's move on to the next one.
 
 ![4](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/433b1a0a-cd7b-4765-8ee4-c706f653dc66)
 
@@ -49,16 +49,25 @@ End Goal:
 ![2b](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/3551871f-d653-40fc-b749-ae760c44c48c)
 
 ***
-### Lab #: File path traversal, traversal sequences stripped with superfluous URL-decode
+### Lab #4: File path traversal, traversal sequences stripped with superfluous URL-decode
 End Goal:
 - This lab contains a path traversal vulnerability in the display of product images. To solve the lab, retrieve the contents of the /etc/passwd file.
 
 ![3a](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/dc92ceba-d353-4ce2-bd3e-2f6e2fabf392)
 
-- To solve this lab, we can sometimes bypass this kind of sanitization by URL encoding, or even double URL encoding, the ../ characters. This results in %2e%2e%2f and %252e%252e%252f, respectively. Various non-standard encodings, such as ..%c0%af or ..%ef%bc%8f, may also work. Send any image product request to the Repeater tab.
+- To solve this lab, we can sometimes bypass this kind of sanitization by URL encoding, or even double URL encoding, the ../ characters. This results in %2e%2e%2f and %252e%252e%252f, respectively. Various non-standard encodings, such as ..%c0%af or ..%ef%bc%8f, may also work. Send any image product request to the Repeater tab. modify the filename parameter given it the value.
 
 ![3b](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/0aa8e8fc-f353-4f9f-a80e-1f91de99ca4b)
 
+***
+### Lab #5: File path traversal, validation of start of path
+End Goal:  This lab contains a path traversal vulnerability in the display of product images. To solve the lab, retrieve the contents of the /etc/passwd file.
+
+![4a](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/4be8d4af-204b-408e-a950-bb7e4975b93c)
+
+- Using Burp Suite, send any product image request to the Repeater tab. Modify the filename parameter, giving it the value: /var/www/images/../../../etc/passwd to start at the base folder. This will solve the lab. Let's move on to the last lab.
+
+![4b](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/5cbf616f-129c-4dcb-b8de-ce1adfd378e0)
 
 
 
