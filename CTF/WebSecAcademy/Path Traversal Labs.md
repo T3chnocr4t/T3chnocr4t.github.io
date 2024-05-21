@@ -10,7 +10,8 @@ Hola 👋 welcome back, guys! Here is my write-up on all the labs in Path Traver
 
 ***
 ### Lab #1: 
-- End Goal: This lab contains a path traversal vulnerability in the display of product images. To solve the lab, retrieve the contents of the /etc/passwd file.
+End Goal:
+- This lab contains a path traversal vulnerability in the display of product images. To solve the lab, retrieve the contents of the /etc/passwd file.
 
 ![1](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/db83e70c-b13a-45fd-890d-4180de2d5d49)
 
@@ -25,10 +26,26 @@ Hola 👋 welcome back, guys! Here is my write-up on all the labs in Path Traver
 ![5](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/9e21fe07-a760-4d1b-a08b-6bae7686741f)
 
 ***
-### Lab #2: 
+### Lab #2: File path traversal, traversal sequences blocked with absolute path bypass
+End Goal:
+- This lab contains a path traversal vulnerability in the display of product images. The application blocks traversal sequences but treats the supplied filename as being relative to a default working directory.
+- To solve the lab, retrieve the contents of the /etc/passwd file.
 
+![1a](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/7e00f45a-76c7-48e3-8d3f-d76552610ad8)
 
+- So, send any request for an image product to the Repeater tab. By modifying the request, we can use an absolute path (an absolute path is a file or directory location specified from the root directory, represented by /) to access the /etc/passwd file on the server. Specify /etc/passwd as the value of the filename parameter, and we solve the lab. Let's move on.
 
+![1c](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/222d6c68-4649-40c2-b026-4fb5f051948c)
+
+### Lab #3: File path traversal, traversal sequences stripped non-recursively
+End Goal:
+- To solve the lab, retrieve the contents of the /etc/passwd file.
+
+![2a](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/82dfd868-9b9f-46f8-aac7-50c85241312b)
+
+- 
+
+![2b](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/3551871f-d653-40fc-b749-ae760c44c48c)
 
 
 
