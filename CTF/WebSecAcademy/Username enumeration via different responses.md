@@ -17,6 +17,7 @@ Hola 👋, welcome back! Here is my write-up on [Username Enumeration via Differ
 ***
 ### Testing for vulnerabilities
 We are given a wordlists for the username and password:
+
 [Candidate usernames](https://portswigger.net/web-security/authentication/auth-lab-usernames)
 
 [Candidate passwords](https://portswigger.net/web-security/authentication/auth-lab-passwords)
