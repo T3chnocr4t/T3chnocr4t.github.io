@@ -37,13 +37,13 @@ WebSec Academy is an online platform or resource dedicated to teaching and train
 
 | Writeup | Description | Date |
 | ------- | ----------- | ---- |
-| [Path Traversal](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Path%20Traversal%20Labs.html) | `Directory Traversal, Web Vuln, Arbitrary Files` | May 21 2024 |
+| [Path Traversal](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Path%20Traversal%20Labs.html) | `Directory Traversal, Web Vuln, Arbitrary Files, Proxy, Repeater` | May 21 2024 |
 
 ### Authentication Labs:#
 
 | Writeup | Description | Date |
 | ------- | ----------- | ---- |
-| [Username enumeration via different responses](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Username%20enumeration%20via%20different%20responses.html) | `UserName Enumeration, Burp Intruder, Password | 24 May 2024 |
+| [Username enumeration via different responses](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Username%20enumeration%20via%20different%20responses.html) | `UserName Enumeration, Burp Intruder, Password` | 24 May 2024 |
 
 
 ### Access Controls Labs:#
