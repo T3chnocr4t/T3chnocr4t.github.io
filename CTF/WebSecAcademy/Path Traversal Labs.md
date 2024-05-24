@@ -88,7 +88,9 @@ This lab contains a path traversal vulnerability in the display of product image
 ***
 ### How to prevent a path traversal attack
 1) Validate all user inputs to filter out any unexpected characters or patterns.
+
 2) Employ allowlists to restrict file access exclusively to known, safe paths.
+
 3) Use allowlists or whitelists to restrict file access to known, safe paths. and so on.
 
 That's all, friends. Thank you for reading up to this point. I would like to hear your feedback on anything not clear here. Here is my Twitter account @[T3chnocr4t](https://twitter.com/T3chnocr4t). Feel free to DM me if you have any issues with my write-up. Thanks!
