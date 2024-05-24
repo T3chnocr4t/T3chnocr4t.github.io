@@ -53,7 +53,13 @@ We are given a wordlists for the username and password:
 - Now that we know the username and password, let's log in to access the account and solve the labs.
 - Note: yours might be different because it unpredictable.
 
+![giphy](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/f676abd6-e5a8-4e9c-9f44-fa3f9c7408e0)
 
+![8](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/93d3fd11-55f6-42ec-9c2a-2edc07eee44c)
+
+That's all, friends. Thank you for reading up to this point. I would like to hear your feedback on anything not clear here. Here is my Twitter account @[T3chnocr4t](https://twitter.com/T3chnocr4t). Feel free to DM me if you have any issues with my write-up. Thanks!
+
+[Go Back Home](https://t3chnocr4t.github.io/)
 
 
 
