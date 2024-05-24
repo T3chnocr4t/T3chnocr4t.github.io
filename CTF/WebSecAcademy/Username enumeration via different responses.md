@@ -9,7 +9,7 @@ Hola 👋, welcome back! Here is my write-up on [Username Enumeration via Differ
 ***
 ### End Goal :#
 - Solve the lab, enumerate a valid username, brute-force the user's password
-- Then access their account page.
+- Then access the account page.
 
 ### Username enumeration
 **_Username enumeration is when an attacker is able to observe changes in the website's behavior in order to identify whether a given username is valid._**
