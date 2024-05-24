@@ -40,4 +40,25 @@ We are given a wordlists for the username and password:
 
 ![5](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/1ecd1812-1058-4a27-abd6-3dd7ac1f0f82)
 
-- 
+- When the attack is complete, on the Results tab, check the Length column. Notice that one of the entries is longer than the others. Compare the response to this payload with the other responses. Notice that the other responses contain the message 'Invalid username,' but this response says 'Incorrect password,' i.e., we now know the username.
+
+![6](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/2d01de38-ea14-4417-8e63-b9c59194786a)
+
+- So, let's close the attack and go back to the Positions tab. Click Clear, then change the value of the username parameter to the username we found. Add a payload position to the password parameter.
+- On the Payloads tab, clear the list of usernames and replace it with the list of candidate passwords. Then click Start attack.
+- When the attack is finished, let's look at the Status column. Notice that each request received a response with a 200 status code except for one, which got a 302 response. This indicates that the login was successful.
+
+![7](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/20e27afa-5c21-48d4-b627-16b2adbc91e5)
+
+- Now that we know the username and password, let's log in to access the account and solve the labs.
+- Note: yours might be different because it unpredictable.
+
+
+
+
+
+
+
+
+
+
