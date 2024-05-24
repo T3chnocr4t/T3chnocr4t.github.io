@@ -8,7 +8,7 @@ Hola 👋, welcome back! Here is my write-up on [Username Enumeration via Differ
 
 ***
 ### End Goal :#
-- To solve the lab, enumerate a valid username, brute-force this user's password
+- Solve the lab, enumerate a valid username, brute-force the user's password
 - Then access their account page.
 
 ### Username enumeration
