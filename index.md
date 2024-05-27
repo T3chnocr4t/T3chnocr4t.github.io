@@ -44,7 +44,7 @@ WebSec Academy is an online platform or resource dedicated to teaching and train
 | Writeup | Description | Date |
 | ------- | ----------- | ---- |
 | [Username enumeration via different responses](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Username%20enumeration%20via%20different%20responses.html) | `UserName Enumeration, Burp Intruder, Password` | 24 May 2024 |
-
+| [2FA Simple Bypass](https://T3chnocr4t.github.io/CTF/WebSecAcademy/2FA%20simple%20bypass.html) | `Two factor authentication, bypass, burp` | May 27 2024 |
 
 ### Access Controls Labs:#
 
