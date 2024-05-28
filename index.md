@@ -43,7 +43,7 @@ WebSec Academy is an online platform or resource dedicated to teaching and train
 
 | Writeup | Description | Date |
 | ------- | ----------- | ---- |
-| [Path Traversal](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Path%20Traversal%20Labs.html) | `Directory Traversal, Web Vuln, Arbitrary Files, Proxy, Repeater` | May 21 2024 |
+| [Path Traversal](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Path%20Traversal%20Labs.html) | `Directory Traversal, Arbitrary Files` | May 21 2024 |
 
 ### Authentication Labs:#
 
