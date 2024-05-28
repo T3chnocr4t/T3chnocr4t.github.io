@@ -26,7 +26,7 @@ Guys 👋, let’s go through this really quick. This is an SSRF lab on PortSwig
 
 ![4](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/75c2f2ac-1190-47c4-91d4-39fcb5a20b0a)
 
-- Modifying the request gets us to the admin interface. Reading the HTML, we can see the URL to delete the target user, which is: http://localhost/admin/delete?username=carlos. Let’s submit this URL as the value in the stockApi parameter, and we solve the lab.
+- Modifying the request gets us to the admin interface. Reading the HTML, we can see the URL to delete the target user, which is: `http://127.0.0.1/admin/delete?username=carlos`. Let’s submit this URL as the value in the stockApi parameter, and we solve the lab.
 
 ![5](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/94f0a460-0694-4519-a5e8-999977fb7e74)
 
