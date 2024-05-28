@@ -33,6 +33,12 @@ TryHackMe is an online platform that provides hands-on cybersecurity training th
 ## WebSecAcademy[Portswigger]:~#
 WebSec Academy is an online platform or resource dedicated to teaching and training individuals in the field of web security. 
 
+### SSRF Lab:#
+
+| Writeup | Description | Date |
+| ------- | ----------- | ---- |
+| [Basic SSRF against the local server](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Basic%20SSRF%20against%20the%20local%20server.html) | `SSRF, Local Host` | May 28 2024 |
+
 ### Path Traversal Lab:#
 
 | Writeup | Description | Date |
