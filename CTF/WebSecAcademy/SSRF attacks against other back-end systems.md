@@ -32,7 +32,7 @@ Let’s go through this, guys. This is a Web Security Academy lab on [SSRF attac
 
 - Send it to the Repeater tab and specify the URL path in the stockApi parameter to delete the user Carlos
 
-
+![dancing-rick-and-morty](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/d9978028-ca44-41b4-9ca9-09e416a71fb8)
 
 That's all, friends. Thank you for reading up to this point. I would like to hear your feedback on anything not clear here. Here is my Twitter account @[T3chnocr4t](https://twitter.com/T3chnocr4t). Feel free to DM me if you have any issues with my write-up. Thanks!
 
