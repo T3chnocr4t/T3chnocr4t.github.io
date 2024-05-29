@@ -37,29 +37,29 @@ WebSec Academy is an online platform or resource dedicated to teaching and train
 
 | Writeup | Description | Date |
 | ------- | ----------- | ---- |
-| [Basic SSRF against the local server](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Basic%20SSRF%20against%20the%20local%20server.html) | `SSRF, Local Host` | May 28 2024 |
+| [Lab](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Basic%20SSRF%20against%20the%20local%20server.html) | `Basic SSRF against the local server` | May 28 2024 |
 
 ### Path Traversal Lab:#
 
 | Writeup | Description | Date |
 | ------- | ----------- | ---- |
-| [Path Traversal](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Path%20Traversal%20Labs.html) | `Directory Traversal, Arbitrary Files` | May 21 2024 |
+| [Lab](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Path%20Traversal%20Labs.html) | `All Path/Directory Traversal` | May 21 2024 |
 
 ### Authentication Labs:#
 
 | Writeup | Description | Date |
 | ------- | ----------- | ---- |
-| [Username enumeration via different responses](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Username%20enumeration%20via%20different%20responses.html) | `UserName Enumeration, Burp Intruder, Password` | 24 May 2024 |
-| [2FA Simple Bypass](https://T3chnocr4t.github.io/CTF/WebSecAcademy/2FA%20simple%20bypass.html) | `Two factor authentication, bypass, burp` | May 27 2024 |
+| [Lab](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Username%20enumeration%20via%20different%20responses.html) | `Username enumeration via different responses` | 24 May 2024 |
+| [Lab](https://T3chnocr4t.github.io/CTF/WebSecAcademy/2FA%20simple%20bypass.html) | `2 Factor Authentication Simple Bypass` | May 27 2024 |
 
 ### Access Controls Labs:#
 
 | Writeup | Description | Date |
 | ------- | ----------- | ---- |
-| [Unprotected admin functionality](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Unprotected&20admin&20functionality.html) | `security impact, broken access controls` | May 12 2024 |
-| [Unprotected admin functionality unpredictable URL](https://T3chnocr4t.github.io//CTF/WebSecAcademy/Unprotected%20admin%20functionality%20with%20unpredictable%20URL.html) | `Broken accessc control, Disclosed javascript, admin panel` | May 14 2024 |
-| [User role controlled by request parameter](https://T3chnocr4t.github.io/CTF/WebSecAcademy/User%20role%20controlled%20by%20request%20parameter.html) | `Burp Suite, Request Parameter` | May 15 2024 |
-| [User ID controlled by request parameter,with unpredictable user IDs](https://T3chnocr4t.github.io/CTF/WebSecAcademy/User%20ID%20controlled%20by%20request%20parameter,%20with%20unpredictable%20user%20IDs.html) | `API Keys, Unpredictable GUIDs, Horizontal Priv Escalation` | May 16 2024 |
+| [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Unprotected&20admin&20functionality.html) | `Unprotected admin functionality` | May 12 2024 |
+| [LAB](https://T3chnocr4t.github.io//CTF/WebSecAcademy/Unprotected%20admin%20functionality%20with%20unpredictable%20URL.html) | `Unprotected admin functionality unpredictable URL` | May 14 2024 |
+| [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/User%20role%20controlled%20by%20request%20parameter.html) | `User role controlled by request parameter` | May 15 2024 |
+| [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/User%20ID%20controlled%20by%20request%20parameter,%20with%20unpredictable%20user%20IDs.html) | `User ID controlled by request parameter,with unpredictable user IDs` | May 16 2024 |
 
 ***
 ## Scripting:~#
