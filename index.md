@@ -1,5 +1,6 @@
-## Whoami:~#🤔
 ***
+## Whoami:~#🤔
+
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=25&lines=Hola+👋;Welcome+to+my+Cybersecurity+Blog;An+Aspiring+Security+Researcher." /></a>
 
