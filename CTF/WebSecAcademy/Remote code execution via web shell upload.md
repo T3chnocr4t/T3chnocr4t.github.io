@@ -35,6 +35,9 @@ Our task is to solve the lab by uploading a basic PHP web shell and using it to 
 ![4](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/399f8b00-0bde-4ad5-9541-bf9065fd309d)
 
 - Let's send the request to the Repeater tab and modify it. In Burp Repeater, change the path of the request to point to your PHP file:
+```
+GET /files/avatars/rick.php
+```
 - And get Carlos's key. Submit it to complete the lab.
 
 ![5](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/6378c5d6-d287-4639-8e7c-eea0294957b1)
