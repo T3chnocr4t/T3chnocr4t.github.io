@@ -4,7 +4,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=25&lines=Hola+👋;Welcome+to+my+Cybersecurity+Blog;An+Aspiring+Security+Researcher." /></a>
 
 <p align="center">
-  <img src="https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/c654195b-0943-4117-94a5-b00a5fc07def" alt="hacking" />
+  <img src="https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/8ca76684-b3b6-41c1-af87-4e440330d37f" alt="hacking" />
 </p>
 
 ***
@@ -56,6 +56,11 @@ WebSec Academy is an online platform or resource dedicated to teaching and train
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Username%20enumeration%20via%20different%20responses.html) | `Username enumeration via different responses` | 24 May 2024 |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/2FA%20simple%20bypass.html) | `2 Factor Authentication Simple Bypass` | May 27 2024 |
 
+### File Uploads Vulnerabilities:#
+
+| Writeup | Description | Date |
+| ------- | ----------- | ---- |
+| [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Remote%20code%20execution%20via%20web%20shell%20upload.html) | `Remote code execution via web shell upload, PHP web shell` | 4 June 2024 |
 
 ### Path Traversal Lab:#
 
