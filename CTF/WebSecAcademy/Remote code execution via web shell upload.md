@@ -23,6 +23,7 @@ Our task is to solve the lab by uploading a basic PHP web shell and using it to 
 ![1png](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/64d4e598-babd-4cb8-b902-bc3bfdd75a73)
 
 - So, it has a functionality for uploading an avatar image. Let's try uploading our basic PHP web shell and check if the web application validates it.
+- NOte: The Url path of the upload functionality.
 
 ![2](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/fea27cf2-e7ee-4056-91e1-c31ac89a98bd)
 
@@ -34,6 +35,7 @@ Our task is to solve the lab by uploading a basic PHP web shell and using it to 
 
 ![4](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/399f8b00-0bde-4ad5-9541-bf9065fd309d)
 
+- GO back to my account..
 - Let's send the request to the Repeater tab and modify it. In Burp Repeater, change the path of the request to point to your PHP file:
 ```
 GET /files/avatars/rick.php
