@@ -9,9 +9,9 @@
 </p>
 
 ***
-Welcome to my Cyber Security Blog! 👋 My name is  ```Ogunbiyi Yusuf```, a cybersecurity enthusiast and Aspiring Security Researcher. My aim is to understand how to protect organizations, data, and networks, making the digital world safer. I'm passionate about learning to identify and address vulnerabilities before they can be exploited by malicious actors.
+**_Welcome to my Cyber Security Blog! 👋 My name is  ```Ogunbiyi Yusuf```, a cybersecurity enthusiast and Aspiring Security Researcher. My aim is to understand how to protect organizations, data, and networks, making the digital world safer. I'm passionate about learning to identify and address vulnerabilities before they can be exploited by malicious actors._**
 
-In my blog posts, I share hacking tricks, detailed writeups, insightful articles, CTF challenges, and anything else related to the fascinating world of cybersecurity that I learn along the way. Join me on this journey as we explore the exciting realm of digital defense together!
+**_In my blog posts, I share hacking tricks, detailed writeups, insightful articles, CTF challenges, and anything else related to the fascinating world of cybersecurity that I learn along the way. Join me on this journey as we explore the exciting realm of digital defense together!_**
 
 - Connect with me 🤝:
   
