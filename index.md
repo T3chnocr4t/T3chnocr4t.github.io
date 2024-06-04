@@ -36,7 +36,7 @@
 ### **_Tryhackme_**:~#
 **_TryHackMe is an online platform that provides hands-on cybersecurity training through virtual labs, challenges, and interactive exercises._**
 
-**_| Writeup | Description | Date |_**
+**_ | Writeup | Description | Date | _**
 **_|---------|------------ | ---- |_**
 **_| [ohSINT](https://T3chnocr4t.github.io/CTF/Tryhackme/ohSINT.html) | **_Are you able to use open source intelligence to solve this challenge?_** |  Feb 21 2024 |_**
 **_| [RootMe](https://T3chnocr4t.github.io/CTF/Tryhackme/RootMe.html) | **_A ctf for beginners, can you root me?_** | Mar 3 2024  |_**
