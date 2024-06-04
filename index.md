@@ -1,5 +1,6 @@
 ***
 ## **_🔒 T3chnocr4t Cybersecurity Playground! 🔒_**
+
 **_👋 Hi there! I'm Ogunbiyi Yusuf, but online I'm known as T3chnocr4t. I'm someone who's learning about keeping the internet safe from bad guys. 🌐_**
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=25&lines=Hola+👋;Welcome+to+my+Cybersecurity+Blog;An+Aspiring+Security+Researcher." /></a>
@@ -9,9 +10,16 @@
 </p>
 
 ***
-**_Welcome to my Cyber Security Blog! 👋 My name is  ```Ogunbiyi Yusuf```, a cybersecurity enthusiast and Aspiring Security Researcher. My aim is to understand how to protect organizations, data, and networks, making the digital world safer. I'm passionate about learning to identify and address vulnerabilities before they can be exploited by malicious actors._**
+**_As I learn about cybersecurity, I'm on a mission to understand how to keep websites/app and organization, safe from sneaky hackers. 🕵️‍♂️ I'm an aspiring "security researcher and web app pentester"._**
 
-**_In my blog posts, I share hacking tricks, detailed writeups, insightful articles, CTF challenges, and anything else related to the fascinating world of cybersecurity that I learn along the way. Join me on this journey as we explore the exciting realm of digital defense together!_**
+### **_📝 Here's what you can expect from my blog:_**
+
+**_💻 CTF Walkthroughs: I'll guide you through steps on how I tackle various CTF challenges or labs from platforms like TryHackMe and PortSwigger._**
+**_📰 Article Sharing: I'll be sharimg some articles I've written about the things I've learned_**
+**_🧠 Learning: I'll be share new discoveries in cybersecurity to keep you informed and up-to-date._**
+
+
+**_🚀 Let's go on this cybersecurity journey together and learn how to keep the internet a safer place! _**
 
 - Connect with me 🤝:
   
