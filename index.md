@@ -23,9 +23,11 @@
 
 **_🚀 Let's go on this cybersecurity journey together and learn how to keep the internet a safer place! _**
 
-- Connect with me 🤝:
+**_🌐 Social Media: Follow me on:~#
   
- <a href="https://twitter.com/T3chnocr4t">![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a> <a href="https://medium.com/@T3chnocr4t">![Medium(My Writing Portfolio)](https://img.shields.io/badge/Medium-008000?style=for-the-badge&logo=linktree&logoColor=white)</a> <a href='https://www.linkedin.com/in/ogunbiyi-yusuf/' >![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+ <a href="https://twitter.com/T3chnocr4t">![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+ <a href="https://medium.com/@T3chnocr4t">![Medium(My Writing Portfolio)](https://img.shields.io/badge/Medium-008000?style=for-the-badge&logo=linktree&logoColor=white)</a>
+ <a href='https://www.linkedin.com/in/ogunbiyi-yusuf/' >![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ***
 ## **_Tryhackme_**:~#
