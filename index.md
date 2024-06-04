@@ -21,7 +21,7 @@
 - **_🧠 Learning: I'll share new discoveries in cybersecurity to keep you informed and up-to-date._**
 
 
-**_🚀 Let's go on this cybersecurity journey together and learn how to keep the internet a safer place! _**
+**_🚀 Let's go on this cybersecurity journey together and learn how to keep the internet a safer place!_**
 
 **_🌐 Social Media: Follow me on:~#_**
   
