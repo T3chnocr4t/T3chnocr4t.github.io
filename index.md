@@ -1,7 +1,7 @@
 ***
 ## **_🔒 T3chnocr4t Cybersecurity Playground! 🔒_**
 
-**_👋 Hi there! I'm Ogunbiyi Yusuf, but online I'm known as T3chnocr4t. I'm someone who's learning about keeping the internet safe from bad guys. 🌐_**
+*_👋 Hi there! I'm Ogunbiyi Yusuf, but online I'm known as T3chnocr4t. I'm someone who's learning about keeping the internet safe from bad guys. 🌐_*
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=25&lines=Hola+👋;Welcome+to+my+Cybersecurity+Blog;An+Aspiring+Security+Researcher." /></a>
 
