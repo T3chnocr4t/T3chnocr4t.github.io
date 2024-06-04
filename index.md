@@ -36,15 +36,15 @@
 ### **_Tryhackme_**:~#
 **_TryHackMe is an online platform that provides hands-on cybersecurity training through virtual labs, challenges, and interactive exercises._**
 
-**_ | Writeup | Description | Date | _**
-**_|---------|------------ | ---- |_**
-**_| [ohSINT](https://T3chnocr4t.github.io/CTF/Tryhackme/ohSINT.html) | **_Are you able to use open source intelligence to solve this challenge?_** |  Feb 21 2024 |_**
-**_| [RootMe](https://T3chnocr4t.github.io/CTF/Tryhackme/RootMe.html) | **_A ctf for beginners, can you root me?_** | Mar 3 2024  |_**
-**_| [Searchlight](https://T3chnocr4t.github.io/CTF/Tryhackme/Searchlight.html) | **_OSINT challenges in the imagery intelligence category_** | Mar 5 2024 |_**
-**_| [WebOsint](https://T3chnocr4t.github.io/CTF/Tryhackme/WebOsint.html) | **_Conducting basic open source intelligence research on a website_** | Mar 19 2024 |_**
-**_| [CrackTheHash](https://T3chnocr4t.github.io/CTF/Tryhackme/CrackTheHash.html) | **_Cracking hashes challenges_** | Apr 16 2024 |_**
-**_| [AgentSudo](https://T3chnocr4t.github.io/CTF/Tryhackme/AgentSudo.html) | **_You found a secret server located under the deep sea. Your task is to hack inside the server and reveal the truth._** | Apr 18 2024 |_**
-**_| [Hackland](https://T3chnocr4t.github.io/CTF/Tryhackme/hackland.html) | **_find out what is hacksparo is really hiding from us._** | June 4 2024 |_**
+| Writeup | Description | Date |
+|---------|------------ | ---- |
+| [ohSINT](https://T3chnocr4t.github.io/CTF/Tryhackme/ohSINT.html) | **_Are you able to use open source intelligence to solve this challenge?_** |  Feb 21 2024 |
+| [RootMe](https://T3chnocr4t.github.io/CTF/Tryhackme/RootMe.html) | **_A ctf for beginners, can you root me?_** | Mar 3 2024  |
+| [Searchlight](https://T3chnocr4t.github.io/CTF/Tryhackme/Searchlight.html) | **_OSINT challenges in the imagery intelligence category_** | Mar 5 2024 |
+| [WebOsint](https://T3chnocr4t.github.io/CTF/Tryhackme/WebOsint.html) | **_Conducting basic open source intelligence research on a website_** | Mar 19 2024 |
+| [CrackTheHash](https://T3chnocr4t.github.io/CTF/Tryhackme/CrackTheHash.html) | **_Cracking hashes challenges_** | Apr 16 2024 |
+| [AgentSudo](https://T3chnocr4t.github.io/CTF/Tryhackme/AgentSudo.html) | **_You found a secret server located under the deep sea. Your task is to hack inside the server and reveal the truth._** | Apr 18 2024 |
+| [Hackland](https://T3chnocr4t.github.io/CTF/Tryhackme/hackland.html) | **_find out what is hacksparo is really hiding from us._** | June 4 2024 |
 
 ***
 ### **_WebSecAcademy[Portswigger]_**:~#
