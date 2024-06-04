@@ -1,7 +1,7 @@
 ***
 ## **_🔒 T3chnocr4t Cybersecurity Playground! 🔒_**
 
-*_👋 Hi there! I'm Ogunbiyi Yusuf, but online I'm known as T3chnocr4t. I'm someone who's learning about keeping the internet safe from bad guys. 🌐_*
+**_👋 Hi there! I'm Ogunbiyi Yusuf, but online I'm known as T3chnocr4t. I'm someone who's learning about keeping the internet safe from bad guys. 🌐_**
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=25&lines=Hola+👋;Welcome+to+my+Cybersecurity+Blog;An+Aspiring+Security+Researcher." /></a>
 
@@ -33,24 +33,24 @@
 ***
 # **_Walkthrough_**
 
-### **_Tryhackme_**:~#
+## **_Tryhackme_**:~#
 **_TryHackMe is an online platform that provides hands-on cybersecurity training through virtual labs, challenges, and interactive exercises._**
 
-| Writeup | Description | Date |
-|---------|------------ | ---- |
-| [ohSINT](https://T3chnocr4t.github.io/CTF/Tryhackme/ohSINT.html) | **_Are you able to use open source intelligence to solve this challenge?_** |  Feb 21 2024 |
+| **_Writeup_** | **_Description_** | **_Date_** |
+|**_---------_**| **_------------_** | **_----_** |
+| [ohSINT](https://T3chnocr4t.github.io/CTF/Tryhackme/ohSINT.html) | **_Are you able to use open source intelligence to solve this challenge?_** |  **_Feb 21 2024_** |
 | [RootMe](https://T3chnocr4t.github.io/CTF/Tryhackme/RootMe.html) | **_A ctf for beginners, can you root me?_** | Mar 3 2024  |
-| [Searchlight](https://T3chnocr4t.github.io/CTF/Tryhackme/Searchlight.html) | **_OSINT challenges in the imagery intelligence category_** | Mar 5 2024 |
+| [Searchlight](https://T3chnocr4t.github.io/CTF/Tryhackme/Searchlight.html) | **_OSINT challenges in the imagery intelligence category_** | **_Mar 5 2024_** |
 | [WebOsint](https://T3chnocr4t.github.io/CTF/Tryhackme/WebOsint.html) | **_Conducting basic open source intelligence research on a website_** | Mar 19 2024 |
 | [CrackTheHash](https://T3chnocr4t.github.io/CTF/Tryhackme/CrackTheHash.html) | **_Cracking hashes challenges_** | Apr 16 2024 |
 | [AgentSudo](https://T3chnocr4t.github.io/CTF/Tryhackme/AgentSudo.html) | **_You found a secret server located under the deep sea. Your task is to hack inside the server and reveal the truth._** | Apr 18 2024 |
 | [Hackland](https://T3chnocr4t.github.io/CTF/Tryhackme/hackland.html) | **_find out what is hacksparo is really hiding from us._** | June 4 2024 |
 
 ***
-### **_WebSecAcademy[Portswigger]_**:~#
+## **_WebSecAcademy[Portswigger]_**:~#
 **_WebSec Academy is an online platform or resource dedicated to teaching and training individuals in the field of web security._**
 
-##### **_Access Controls Labs_**:#
+### **_Access Controls Labs_**:#
 
 | Writeup | Description | Date |
 | ------- | ----------- | ---- |
@@ -59,27 +59,27 @@
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/User%20role%20controlled%20by%20request%20parameter.html) | **_User role controlled by request parameter_** | May 15 2024 |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/User%20ID%20controlled%20by%20request%20parameter,%20with%20unpredictable%20user%20IDs.html) | **_User ID controlled by request parameter,with unpredictable user IDs_** | May 16 2024 |
 
-##### **_SSRF Lab_**:#
+### **_SSRF Lab_**:#
 
 | Writeup | Description | Date |
 | ------- | ----------- | ---- |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Basic%20SSRF%20against%20the%20local%20server.html) | **_Basic SSRF against the local server_** | May 28 2024 |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/SSRF%20attacks%20against%20other%20back-end%20systems.html) | **_SSRF attacks against other back-end systems_** | May 29 2024 |
 
-##### **_Authentication Labs_**:#
+### **_Authentication Labs_**:#
 
 | Writeup | Description | Date |
 | ------- | ----------- | ---- |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Username%20enumeration%20via%20different%20responses.html) | **_Username enumeration via different responses_** | May 24 2024 |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/2FA%20simple%20bypass.html) | **_2 Factor Authentication Simple Bypass_** | May 27 2024 |
 
-##### **_File Uploads Vulnerabilities_**:#
+### **_File Uploads Vulnerabilities_**:#
 
 | Writeup | Description | Date |
 | ------- | ----------- | ---- |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Remote%20code%20execution%20via%20web%20shell%20upload.html) | **_Remote code execution via web shell upload, PHP web shell_** | June 4 2024 |
 
-##### **_Path Traversal Lab_**:#
+### **_Path Traversal Lab_**:#
 
 | Writeup | Description | Date |
 | ------- | ----------- | ---- |
