@@ -15,8 +15,10 @@
 ### **_📝 Here's what you can expect from my blog:_**
 
 **_💻 CTF Walkthroughs: I'll guide you through steps on how I tackle various CTF challenges or labs from platforms like TryHackMe and PortSwigger._**
+
 **_📰 Article Sharing: I'll be sharimg some articles I've written about the things I've learned_**
-**_🧠 Learning: I'll be share new discoveries in cybersecurity to keep you informed and up-to-date._**
+
+**_🧠 Learning: I'll share new discoveries in cybersecurity to keep you informed and up-to-date._**
 
 
 **_🚀 Let's go on this cybersecurity journey together and learn how to keep the internet a safer place! _**
