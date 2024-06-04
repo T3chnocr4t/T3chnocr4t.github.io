@@ -36,15 +36,15 @@
 ### **_Tryhackme_**:~#
 **_TryHackMe is an online platform that provides hands-on cybersecurity training through virtual labs, challenges, and interactive exercises._**
 
-| Writeup | Description | Date |
-|---------|------------ | ---- |
-| [ohSINT](https://T3chnocr4t.github.io/CTF/Tryhackme/ohSINT.html) | **_Are you able to use open source intelligence to solve this challenge?_** |  Feb 21 2024 | 
-| [RootMe](https://T3chnocr4t.github.io/CTF/Tryhackme/RootMe.html) | **_A ctf for beginners, can you root me?_** | Mar 3 2024  |
-| [Searchlight](https://T3chnocr4t.github.io/CTF/Tryhackme/Searchlight.html) | **_OSINT challenges in the imagery intelligence category_** | Mar 5 2024 |
-| [WebOsint](https://T3chnocr4t.github.io/CTF/Tryhackme/WebOsint.html) | **_Conducting basic open source intelligence research on a website_** | Mar 19 2024 |
-| [CrackTheHash](https://T3chnocr4t.github.io/CTF/Tryhackme/CrackTheHash.html) | **_Cracking hashes challenges_** | Apr 16 2024 |
-| [AgentSudo](https://T3chnocr4t.github.io/CTF/Tryhackme/AgentSudo.html) | **_You found a secret server located under the deep sea. Your task is to hack inside the server and reveal the truth._** | Apr 18 2024 |
-| [Hackland](https://T3chnocr4t.github.io/CTF/Tryhackme/hackland.html) | **_find out what is hacksparo is really hiding from us._** | June 4 2024 |
+**_| Writeup | Description | Date |_**
+**_|---------|------------ | ---- |_**
+**_| [ohSINT](https://T3chnocr4t.github.io/CTF/Tryhackme/ohSINT.html) | **_Are you able to use open source intelligence to solve this challenge?_** |  Feb 21 2024 |_**
+**_| [RootMe](https://T3chnocr4t.github.io/CTF/Tryhackme/RootMe.html) | **_A ctf for beginners, can you root me?_** | Mar 3 2024  |_**
+**_| [Searchlight](https://T3chnocr4t.github.io/CTF/Tryhackme/Searchlight.html) | **_OSINT challenges in the imagery intelligence category_** | Mar 5 2024 |_**
+**_| [WebOsint](https://T3chnocr4t.github.io/CTF/Tryhackme/WebOsint.html) | **_Conducting basic open source intelligence research on a website_** | Mar 19 2024 |_**
+**_| [CrackTheHash](https://T3chnocr4t.github.io/CTF/Tryhackme/CrackTheHash.html) | **_Cracking hashes challenges_** | Apr 16 2024 |_**
+**_| [AgentSudo](https://T3chnocr4t.github.io/CTF/Tryhackme/AgentSudo.html) | **_You found a secret server located under the deep sea. Your task is to hack inside the server and reveal the truth._** | Apr 18 2024 |_**
+**_| [Hackland](https://T3chnocr4t.github.io/CTF/Tryhackme/hackland.html) | **_find out what is hacksparo is really hiding from us._** | June 4 2024 |_**
 
 ***
 ### **_WebSecAcademy[Portswigger]_**:~#
@@ -52,9 +52,9 @@
 
 ##### **_Access Controls Labs_**:#
 
-| Writeup | Description | Date |
-| ------- | ----------- | ---- |
-| [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Unprotected&20admin&20functionality.html) | **_Unprotected admin functionality_** | May 12 2024 |
+**_| Writeup | Description | Date |_**
+**_| ------- | ----------- | ---- |_**
+**_| [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Unprotected&20admin&20functionality.html) | **_Unprotected admin functionality_** | May 12 2024 |_**
 | [LAB](https://T3chnocr4t.github.io//CTF/WebSecAcademy/Unprotected%20admin%20functionality%20with%20unpredictable%20URL.html) | **_Unprotected admin functionality unpredictable URL_** | May 14 2024 |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/User%20role%20controlled%20by%20request%20parameter.html) | **_User role controlled by request parameter_** | May 15 2024 |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/User%20ID%20controlled%20by%20request%20parameter,%20with%20unpredictable%20user%20IDs.html) | **_User ID controlled by request parameter,with unpredictable user IDs_** | May 16 2024 |
