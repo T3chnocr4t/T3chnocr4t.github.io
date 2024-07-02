@@ -4,7 +4,9 @@
 
 Guys 👋, welcome back. Let's go through this lab real quick. This lab has a horizontal privilege escalation vulnerability on a user account page. Let's try to exploit the vulnerabilities.
 
-To solve the lab, we need to obtain the API key for the user Carlos and submit it as the solution. Note: Am using caido you can follow along using burp also
+To solve the lab, we need to obtain the API key for the user Carlos and submit it as the solution. Note: Am using caido you can follow along using burp also..
+
+![access-control](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/233707e5-1d04-409f-b413-33766ae43a5b)
 
 ***
 ### End Goals:
