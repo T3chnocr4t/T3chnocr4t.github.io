@@ -14,4 +14,12 @@
 
 ## **_Here is a list of write-ups:~#_**
 
-
+| Writeup | Description | Date |
+| ------- | ----------- | ---- |
+| [ohSINT](https://T3chnocr4t.github.io/CTF/Tryhackme/ohSINT.html) | **_Are you able to use open source intelligence to solve this challenge?_** |  **_Feb 21 2024_** |
+| [RootMe](https://T3chnocr4t.github.io/CTF/Tryhackme/RootMe.html) | **_A ctf for beginners, can you root me?_** | **_Mar 3 2024_**  |
+| [Searchlight](https://T3chnocr4t.github.io/CTF/Tryhackme/Searchlight.html) | **_OSINT challenges in the imagery intelligence category_** | **_Mar 5 2024_** |
+| [WebOsint](https://T3chnocr4t.github.io/CTF/Tryhackme/WebOsint.html) | **_Conducting basic open source intelligence research on a website_** | **_Mar 19 2024_** |
+| [CrackTheHash](https://T3chnocr4t.github.io/CTF/Tryhackme/CrackTheHash.html) | **_Cracking hashes challenges_** | **_Apr 16 2024_** |
+| [AgentSudo](https://T3chnocr4t.github.io/CTF/Tryhackme/AgentSudo.html) | **_You found a secret server located under the deep sea. Your task is to hack inside the server and reveal the truth._** | **_Apr 18 2024_** |
+| [Hackland](https://T3chnocr4t.github.io/CTF/Tryhackme/hackland.html) | **_find out what is hacksparo is really hiding from us._** | **_June 4 2024_** |
