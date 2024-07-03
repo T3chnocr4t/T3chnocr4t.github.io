@@ -59,8 +59,6 @@ title: Home
 ## **_WebSecAcademy[Portswigger]_**:~#
 **_WebSec Academy is an online platform or resource dedicated to teaching and training individuals in the field of web security._**
 
-### **_Access Controls Labs_**:#
-
 | Writeup | Description | Date |
 | ------- | ----------- | ---- |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Unprotected%20admin%20functionality.html) | **_Unprotected admin functionality_** | **_May 12 2024_** |
