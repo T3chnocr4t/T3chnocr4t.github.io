@@ -20,6 +20,7 @@ title:  WebSecAcademy
 - **_Community and Support: Access to a community of learners and experts where users can ask questions, share knowledge, and discuss best practices in web security._**
 - **_Career Development: Acquiring web security skills can enhance career prospects in cybersecurity, software development, or related fields, as web security is critical for protecting sensitive data and maintaining trust in online services._**
 
+## **_Here is a list of write-ups:~#_**
 
 #### **_Access Controls Labs_**:#
 
@@ -57,3 +58,4 @@ title:  WebSecAcademy
 | ------- | ----------- | ---- |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Path%20Traversal%20Labs.html) | **_All Path/Directory Traversal, URL encoding, Admin functionality_** | **_May 21 2024_** |
 
+**_If you have any issues with my write-up or if you'd like to connect with me, here is my Twitter [@T3chnocr4t](https://twitter.com/T3chnocr4t)_**
