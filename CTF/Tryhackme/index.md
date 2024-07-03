@@ -23,3 +23,6 @@
 | [CrackTheHash](https://T3chnocr4t.github.io/CTF/Tryhackme/CrackTheHash.html) | **_Cracking hashes challenges_** | **_Apr 16 2024_** |
 | [AgentSudo](https://T3chnocr4t.github.io/CTF/Tryhackme/AgentSudo.html) | **_You found a secret server located under the deep sea. Your task is to hack inside the server and reveal the truth._** | **_Apr 18 2024_** |
 | [Hackland](https://T3chnocr4t.github.io/CTF/Tryhackme/hackland.html) | **_find out what is hacksparo is really hiding from us._** | **_June 4 2024_** |
+
+
+**_If you have any issues with my write-up or if you'd like to connect with me, here is my Twitter [@T3chnocr4t](https://twitter.com/T3chnocr4t)_**
