@@ -1,3 +1,11 @@
+---
+layout: default
+title:  TryHackMe.
+---
+
+<h2 class="menu-header" id="index"><a href="../../index.html">Root</a></h2>
+<hr>
+
 # **_TryHackMe_**
 **_TryHackMe is an online platform focused on teaching cybersecurity through practical, hands-on labs and challenges. It provides structured learning paths for beginners to advanced users, fosters community interaction, and helps develop real-world cybersecurity skills. It's popular among learners and professionals looking to enhance their knowledge and capabilities in the field of cybersecurity._**
 
