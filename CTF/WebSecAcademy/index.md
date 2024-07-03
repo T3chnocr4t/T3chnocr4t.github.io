@@ -6,7 +6,7 @@ title:  WebSecAcademy
 <h2 class="menu-header" id="index"><a href="../../index.html">Main</a></h2>
 <hr>
 
-# Web Security Acadmey:~#
+# Web Security Academy:~#
 **_The Web Security Academy is an online platform that focuses on teaching web application security. It provides interactive labs, tutorials, and challenges to help users learn about vulnerabilities such as cross-site scripting (XSS), SQL injection, and more. It's designed for both beginners and advanced users interested in understanding and mitigating security risks specific to web applications._**
 
 ![e944-article-wsa-hall-of-fame-interviews-blog_article](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/1efdb3c1-8b3f-4cd3-8db8-227a7a2d4ef7)
@@ -22,7 +22,7 @@ title:  WebSecAcademy
 
 ## **_Here is a list of write-ups:~#_**
 
-#### **_Access Controls Labs_**:#
+### **_Access Controls Labs_**:#
 
 | Writeup | Description | Date |
 | ------- | ----------- | ---- |
@@ -32,27 +32,27 @@ title:  WebSecAcademy
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/User%20ID%20controlled%20by%20request%20parameter,%20with%20unpredictable%20user%20IDs.html) | **_User ID controlled by request parameter,with unpredictable user IDs_** | **_May 16 2024_** |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/User%20ID%20controlled%20by%20request%20parameter.html) | **_User ID controlled by request parameter_** | **_July 02 2024_** |
 
-#### **_SSRF Lab_**:#
+### **_SSRF Lab_**:#
 
 | Writeup | Description | Date |
 | ------- | ----------- | ---- |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Basic%20SSRF%20against%20the%20local%20server.html) | **_Basic SSRF against the local server_** | **_May 28 2024_** |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/SSRF%20attacks%20against%20other%20back-end%20systems.html) | **_SSRF attacks against other back-end systems_** | **_May 29 2024_** |
 
-#### **_Authentication Labs_**:#
+### **_Authentication Labs_**:#
 
 | Writeup | Description | Date |
 | ------- | ----------- | ---- |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Username%20enumeration%20via%20different%20responses.html) | **_Username enumeration via different responses_** | **_May 24 2024_** |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/2FA%20simple%20bypass.html) | **_2 Factor Authentication Simple Bypass_** | **_May 27 2024_** |
 
-#### **_File Uploads Vulnerabilities_**:#
+### **_File Uploads Vulnerabilities_**:#
 
 | Writeup | Description | Date |
 | ------- | ----------- | ---- |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Remote%20code%20execution%20via%20web%20shell%20upload.html) | **_Remote code execution via web shell upload, PHP web shell_** | **_June 4 2024_** |
 
-#### **_Path Traversal Lab_**:#
+### **_Path Traversal Lab_**:#
 
 | Writeup | Description | Date |
 | ------- | ----------- | ---- |
