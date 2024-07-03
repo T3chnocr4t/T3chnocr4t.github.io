@@ -64,7 +64,7 @@ title: Home
 | Writeup | Description | Date |
 | ------- | ----------- | ---- |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Unprotected&20admin&20functionality.html) | **_Unprotected admin functionality_** | **_May 12 2024_** |
-| [LAB](https://T3chnocr4t.github.io//CTF/WebSecAcademy/Unprotected%20admin%20functionality%20with%20unpredictable%20URL.html) | **_Unprotected admin functionality unpredictable URL_** | **_May 14 2024_** |
+| [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Unprotected%20admin%20functionality%20with%20unpredictable%20URL.html) | **_Unprotected admin functionality unpredictable URL_** | **_May 14 2024_** |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/User%20role%20controlled%20by%20request%20parameter.html) | **_User role controlled by request parameter_** | **_May 15 2024_** |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/User%20ID%20controlled%20by%20request%20parameter,%20with%20unpredictable%20user%20IDs.html) | **_User ID controlled by request parameter,with unpredictable user IDs_** | **_May 16 2024_** |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/User%20ID%20controlled%20by%20request%20parameter.html) | **_User ID controlled by request parameter_** | **_July 02 2024_** |
