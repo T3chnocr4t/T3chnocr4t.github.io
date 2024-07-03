@@ -31,7 +31,7 @@ title:  WebSecAcademy
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/User%20role%20controlled%20by%20request%20parameter.html) | **_User role controlled by request parameter_** | **_May 15 2024_** |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/User%20ID%20controlled%20by%20request%20parameter,%20with%20unpredictable%20user%20IDs.html) | **_User ID controlled by request parameter,with unpredictable user IDs_** | **_May 16 2024_** |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/User%20ID%20controlled%20by%20request%20parameter.html) | **_User ID controlled by request parameter_** | **_July 02 2024_** |
-| [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/User%20ID%20controlled%20by%20request%20parameter%20with%20data%20leakage%20in%20redirect.html) | **_User ID controlled by request parameter with data leakage in redirect _** | **_July 03 2024_** |
+| [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/User%20ID%20controlled%20by%20request%20parameter%20with%20data%20leakage%20in%20redirect.html) | **_User ID controlled by request parameter with data leakage in redirect_** | **_July 03 2024_** |
 
 ### **_SSRF Lab_**:#
 
