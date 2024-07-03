@@ -72,6 +72,7 @@ title: Home
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/2FA%20simple%20bypass.html) | **_2 Factor Authentication Simple Bypass_** | **_May 27 2024_** |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Remote%20code%20execution%20via%20web%20shell%20upload.html) | **_Remote code execution via web shell upload, PHP_** | **_May 22 2024_** | 
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Path%20Traversal%20Labs.html) | **_All Path/Directory Traversal, URL encoding, Admin functionality_** | **_May 21 2024_** |
+| [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/User%20ID%20controlled%20by%20request%20parameter%20with%20data%20leakage%20in%20redirect.html) | **_User ID controlled by request parameter with data leakage in redirect _** | **_July 03 2024_** |
 
 
 ***
