@@ -5,7 +5,7 @@ title: Home
 
 <!--Favicon-->
 <link rel="shortcut icon" href="favico.ico" type="image/vnd.microsoft.icon">
-<h2 class="mume-header" id="mainindexhtml-nbspnbsp-contactcontacthtml"><a href="./index.html">Root</a>&#xA0;&#xA0;&#xA0; <a href="/CTF/Tryhackme/index.html">TryHackMe</a>&#xA0;&#xA0;&#xA0;<a href="/CTF/WebSecAcademy/index.html">WebSecAcademy</a>&#xA0;&#xA0;&#xA0;</h2>
+<h2 class="mume-header" id="mainindexhtml-nbspnbsp-contactcontacthtml"><a href="./index.html">Main</a>&#xA0;&#xA0;&#xA0; <a href="/CTF/Tryhackme/index.html">TryHackMe</a>&#xA0;&#xA0;&#xA0;<a href="/CTF/WebSecAcademy/index.html">WebSecAcademy</a>&#xA0;&#xA0;&#xA0;</h2>
 
 ***
 ## **_🔒 T3chnocr4t Cybersecurity Playground! 🔒_**
