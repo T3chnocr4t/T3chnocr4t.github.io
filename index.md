@@ -15,7 +15,7 @@ title: Home
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=25&lines=Hola+👋;Welcome+to+my+Cybersecurity+Blog;An+Aspiring+Security+Researcher." /></a>
 
 <p align="center">
-  <img src="https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/8ca76684-b3b6-41c1-af87-4e440330d37f" alt="hacking" />
+  <img src="https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/ae902c98-ee42-42d4-bd95-039df4850d7e" alt="hacking" />
 </p>
 
 ***
