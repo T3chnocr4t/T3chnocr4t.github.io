@@ -33,6 +33,7 @@ title:  WebSecAcademy
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/User%20ID%20controlled%20by%20request%20parameter.html) | **_User ID controlled by request parameter_** | **_July 02 2024_** |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/User%20ID%20controlled%20by%20request%20parameter%20with%20data%20leakage%20in%20redirect.html) | **_User ID controlled by request parameter with data leakage in redirect_** | **_July 03 2024_** |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Insecure%20direct%20object%20references.html) | **_Insecure direct object references_** | **_July 04 2024_** |
+| [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Referer-based%20access%20control.html) | **_Referer-based access control_** | **_July 04 2024_** |
 
 ### **_SSRF Lab_**:#
 
