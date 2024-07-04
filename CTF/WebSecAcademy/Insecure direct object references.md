@@ -20,7 +20,7 @@ Insecure direct object references (IDORs) are a subcategory of access control vu
 
 ![idor1](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/a86f3e20-a183-4b1b-805f-580f90b2eb75)
 
-- View the transcript and download our message. Notice the URL and observe that the transcripts are text files assigned a filename with a 'number'.
+- View the transcript and download our message. Notice the URL and observe that the transcripts are text files assigned a filename with a 'number'. Using Static URLs
 
 ![idor 2](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/0cea37bc-41ed-4b04-8aec-5fb73c0796c4)
 
