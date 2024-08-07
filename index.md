@@ -12,14 +12,14 @@ title: Home
 
 **_👋 Hi there! I'm Ogunbiyi Yusuf, but online I'm known as T3chnocr4t. I'm someone who's learning about keeping the internet safe from bad guys. 🌐_**
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=25&lines=Hola+👋;Welcome+to+my+Cybersecurity+Blog;An+Aspiring+Security+Researcher." /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=25&lines=Hola+👋;Welcome+to+my+Cybersecurity+Blog;Security+Researcher+(Web/API)." /></a>
 
 <p align="center">
   <img src="https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/ae902c98-ee42-42d4-bd95-039df4850d7e" alt="hacking" />
 </p>
 
 ***
-**_As I learn about cybersecurity, I'm on a mission to understand how to keep websites/app and organization, safe from sneaky hackers. 🕵️‍♂️ I'm an aspiring "security researcher and web app pentester"._**
+**_As I learn about cybersecurity, I'm on a mission to understand how to keep websites/app and organization, safe from sneaky hackers. 🕵️‍♂️ " Web/API security researcher._**
 
 ### **_📝 Here's what you can expect from my blog:_**
 
