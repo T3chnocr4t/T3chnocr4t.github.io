@@ -41,6 +41,7 @@ title:  WebSecAcademy
 | Writeup | Description | Date |
 | ------- | ----------- | ---- |
 | [LAB](https://t3chnocr4t.github.io/CTF/WebSecAcademy/Information%20disclosure%20in%20error%20messages.html) | **_Information disclosure in error messages_** | **_Aug 07 2024_** |
+| [LAB](https://t3chnocr4t.github.io/CTF/WebSecAcademy/Information%20disclosure%20on%20debug%20page.html) | **_Information disclosure on debug page_** | **_Aug 07 2024_** | 
 
 
 ### **_SSRF Lab_**:#
