@@ -35,6 +35,14 @@ title:  WebSecAcademy
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Insecure%20direct%20object%20references.html) | **_Insecure direct object references_** | **_July 04 2024_** |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Referer-based%20access%20control.html) | **_Referer-based access control_** | **_July 04 2024_** |
 
+
+### **_Information Disclosure_**:#
+
+| Writeup | Description | Date |
+| ------- | ----------- | ---- |
+| [LAB](https://t3chnocr4t.github.io/CTF/WebSecAcademy/Information%20disclosure%20in%20error%20messages.html) | **_Information disclosure in error messages_** | **_Aug 07 2024_** |
+
+
 ### **_SSRF Lab_**:#
 
 | Writeup | Description | Date |
