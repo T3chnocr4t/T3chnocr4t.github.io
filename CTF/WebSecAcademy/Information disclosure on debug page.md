@@ -7,7 +7,11 @@ Hello,
 
 Here is the write-up for another information disclosure lab. Let's go through this quickly. This lab features a debug page that reveals sensitive information about the application. To complete the lab, you need to obtain and submit the SECRET_KEY environment variable.
 
-![tumblr_pxa0ctVgru1vmcie7o4_500](https://github.com/user-attachments/assets/ef47b718-93cb-45be-885d-a627791e001e)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ef47b718-93cb-45be-885d-a627791e001e" alt="hacking" />
+</p>
+
 
 ***
 ### What is information disclosure?
