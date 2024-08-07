@@ -19,7 +19,7 @@ title: Home
 </p>
 
 ***
-**_As I learn about cybersecurity, I'm on a mission to understand how to keep websites/app and organization, safe from sneaky hackers. 🕵️‍♂️ " Web/API security researcher._**
+**_As I learn about cybersecurity, I'm on a mission to understand how to keep websites/app and organization, safe from sneaky hackers. 🕵️‍♂️ Web/API security researcher._**
 
 ### **_📝 Here's what you can expect from my blog:_**
 
