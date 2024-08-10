@@ -43,9 +43,11 @@ To solve the lab, obtain the header name then use it to bypass the lab's authent
 ![5555](https://github.com/user-attachments/assets/0391b492-5781-4500-9cb3-8693863c7e80)
 
 - Bingo! We accessed the admin page, and by checking the response, we found the path to delete the user "carlos.
+
 ![6666](https://github.com/user-attachments/assets/1ecb5f80-5362-43de-864c-4c070088fa05)
 
 - That’s it, hackerman—lab solved!
+
 ![7777](https://github.com/user-attachments/assets/ee98f778-bcec-4d20-a089-4793fa8ded45)
 
 
