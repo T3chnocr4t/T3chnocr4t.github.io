@@ -64,6 +64,7 @@ title: Home
 | [LAB](https://t3chnocr4t.github.io/CTF/WebSecAcademy/Information%20disclosure%20in%20error%20messages.html) | **_Information disclosure in error messages_** | **_Aug 07 2024_** |
 | [LAB](https://t3chnocr4t.github.io/CTF/WebSecAcademy/Information%20disclosure%20on%20debug%20page.html) | **_Information disclosure on debug page_** | **_Aug 07 2024_** | 
 | [LAB](https://t3chnocr4t.github.io/CTF/WebSecAcademy/Source%20code%20disclosure%20via%20backup%20files.html) | **_Source code disclosure via backup files_** | **_Aug 07 2024_** | 
+| [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Authentication%20bypass%20via%20information%20disclosure.html) | **_Authentication bypass via information disclosure_** | **_Aug 10 2024_** |
 
 
 ***
