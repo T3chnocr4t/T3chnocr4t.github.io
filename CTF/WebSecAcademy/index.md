@@ -60,6 +60,7 @@ title:  WebSecAcademy
 | ------- | ----------- | ---- |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Username%20enumeration%20via%20different%20responses.html) | **_Username enumeration via different responses_** | **_May 24 2024_** |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/2FA%20simple%20bypass.html) | **_2 Factor Authentication Simple Bypass_** | **_May 27 2024_** |
+| [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Username%20enumeration%20via%20subtly%20different%20responses.html) | **_Username Enumeration Via Subtly Different Responses._** | **_Nov 7 2024_** |
 
 ### **_File Uploads Vulnerabilities_**:#
 
