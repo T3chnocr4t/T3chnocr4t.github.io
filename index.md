@@ -66,6 +66,8 @@ title: Home
 | [LAB](https://t3chnocr4t.github.io/CTF/WebSecAcademy/Source%20code%20disclosure%20via%20backup%20files.html) | **_Source code disclosure via backup files_** | **_Aug 07 2024_** | 
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Authentication%20bypass%20via%20information%20disclosure.html) | **_Authentication bypass via information disclosure_** | **_Aug 10 2024_** |
 | [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Information%20disclosure%20in%20version%20control%20history.html) | **_Infromation disclosure in version control history_** | **_Aug 10 2024_** |
+| [LAB](https://T3chnocr4t.github.io/CTF/WebSecAcademy/Username%20enumeration%20via%20subtly%20different%20responses.html) | **_Username Enumeration Via Subtly Different Responses._** | **_Nov 7 2024_** |
+
 
 
 ***
