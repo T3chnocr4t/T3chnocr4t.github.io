@@ -3,7 +3,7 @@
 ## Username enumeration via subtly different responses
 ***
 
-Yo, people! It's been a while. Here is another lab solution based on PortSwigger Labs. This lab is subtly vulnerable to username enumeration and password brute-force attacks. It has an account with a predictable username and password, which can be found in the following wordlists. Our task is to find the valid credentials and log in. Let's go, guys!
+Yo, people!😎 It's been a while. Here is another lab solution based on PortSwigger Labs. This lab is subtly vulnerable to username enumeration and password brute-force attacks. It has an account with a predictable username and password, which can be found in the following wordlists. Our task is to find the valid credentials and log in. Let's go, guys!
 
 
     Candidate usernames
